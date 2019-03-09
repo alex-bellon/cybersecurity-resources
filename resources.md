@@ -27,22 +27,39 @@ https://please.dont-hack.me/books/hacking/
 ## Learning
 
 http://www.securitytube.net/
+
 http://cybrary.it//
+
 http://null-byte.wonderhowto.com/how-to/
+
 http://n0where.net/
+
 http://www.offensive-security.com/metasploit-unleashed
+
 http://www.exploit-db.com/
+
 https://siph0n.net/
+
 http://www.cvedetails.com/
+
 http://resources.infosecinstitute.com/
+
 http://www.windowsecurity.com/articles-tutorials/
+
 http://www.securitysift.com/
+
 http://www.sans.org/reading-room/
+
 http://packetstormsecurity.com/files/
+
 https://www.corelan.be/index.php/articles/
+
 http://routerpwn.com/
+
 http://opensecuritytraining.info/Training.html
+
 https://www.blackhat.com/html/archives.html
+
 http://magazine.hitb.org/hitb-magazine.html
 
 https://www.hacksplaining.com/lessons
@@ -50,8 +67,11 @@ https://www.hacksplaining.com/lessons
 ## News
 
 https://threatpost.com/
+
 http://www.deepdotweb.com/
+
 https://packetstormsecurity.com/
+
 http://www.cvedetails.com/
 
 ## Papers
@@ -71,15 +91,25 @@ http://www.cvedetails.com/
 [23 Practice sites, r/HowToHack](https://www.reddit.com/r/HowToHack/comments/81f3hl/23_hacking_sites_ctfs_and_wargames_to_legally)
 
 http://overthewire.org/wargames/
+
 https://www.pentesterlab.com/
+
 http://www.itsecgames.com/
+
 https://exploit-exercises.com/
+
 http://www.enigmagroup.org/
+
 http://smashthestack.org/
+
 http://3564020356.org/
+
 http://www.hackthissite.org/
+
 http://www.hackertest.net/
+
 http://0x0539.net/
+
 http://hacking.voyage/
 
 ## Privacy
@@ -92,18 +122,24 @@ http://hacking.voyage/
 
 [GitHub Showcase](https://github.com/topics/security)
 
-[Secucrity Programming Projects, r/AskNetSec](https://www.reddit.com/r/AskNetsec/comments/8chw3s/what_are_good_cyber_security_programming_projects/)
+[Security Programming Projects, r/AskNetSec](https://www.reddit.com/r/AskNetsec/comments/8chw3s/what_are_good_cyber_security_programming_projects/)
 
 ## Software
 
 ### Distributions
 
 https://www.kali.org/
+
 http://sourceforge.net/projects/metasploitable/
+
 https://tails.boum.org/
+
 http://ophcrack.sourceforge.net/
+
 https://n0where.net/blackarch-linux/
+
 http://seanux.net/index/en
+
 http://sourceforge.net/p/attackvector/wiki/Home/(edited)
 
 ## Talks
