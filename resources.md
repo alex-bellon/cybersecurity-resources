@@ -124,6 +124,28 @@ http://hacking.voyage/
 
 [Security Programming Projects, r/AskNetSec](https://www.reddit.com/r/AskNetsec/comments/8chw3s/what_are_good_cyber_security_programming_projects/)
 
+## Reddit
+
+### Posts
+
+[Videos and courses](https://www.reddit.com/r/Hacking_Tutorials/comments/aczz0l/if_you_like_watching_tutorials_to_learn_dump_of/)
+
+[Learn NetSec](https://www.reddit.com/r/AskNetsec/comments/ar3fo5/learn_netsec/)
+
+### Subreddits
+
+[r/Cybersecurity](https://www.reddit.com/r/cybersecurity)
+
+[r/HowToHack](https://www.reddit.com/r/howtohack)
+
+[r/NetSec](https://www.reddit.com/r/netsec)
+
+[r/NetSecStudents](https://www.reddit.com/r/netsecstudents)
+
+[r/Security](https://www.reddit.com/r/security)
+
+[r/SecurityCTF](https://www.reddit.com/r/securityctf)
+
 ## Software
 
 ### Distributions
@@ -161,9 +183,5 @@ https://cybr.club/Important-Links/
 https://www.hacksplaining.com/
 
 https://www.exploit-db.com/google-hacking-database - Making it easier to use Google queries for pentesting
-
-https://www.reddit.com/r/Hacking_Tutorials/comments/aczz0l/if_you_like_watching_tutorials_to_learn_dump_of/ - Videos and courses
-
-[Learn NetSec](https://www.reddit.com/r/AskNetsec/comments/ar3fo5/learn_netsec/)
 
 [Beginner's Curriculum](https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/)
