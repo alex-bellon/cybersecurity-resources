@@ -4,6 +4,8 @@
 
 [Hiding text in pixels](http://www.msarnoff.org/millitext/)
 
+[Zip files all the way down](https://research.swtch.com/zip)
+
 ## Tools
 
 ### General
@@ -49,6 +51,8 @@
 [hashcat](https://hashcat.net/hashcat/) - Advanced Password Recovery
 
 [John the Ripper](https://www.openwall.com/john/) - A fast password cracker
+
+ - [John tutorial](https://charlesreid1.com/wiki/John_the_Ripper/Password_Generation)
 
 [KON-BOOT](https://www.piotrbania.com/all/kon-boot/) - Wim/Mac password breaker
 

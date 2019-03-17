@@ -2,6 +2,10 @@
 
 ## Concepts
 
+### Assembly
+
+[Introduction to x86](https://gitlab.com/mcmfb/intro_x86-64)
+
 ### Format String
 
 [Paper](https://trailofbits.github.io/ctf/exploits/references/formatstring-1.2.pdf)
