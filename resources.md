@@ -185,3 +185,16 @@ https://www.hacksplaining.com/
 https://www.exploit-db.com/google-hacking-database - Making it easier to use Google queries for pentesting
 
 [Beginner's Curriculum](https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/)
+
+## YouTube Channels
+
+[13Cubed](https://www.youtube.com/user/davisrichardg/videos)
+
+[/dev/null](https://www.youtube.com/channel/UCGISJ8ZHkmIv1CaoHovK-Xw/videos)
+
+[Gynvael Coldwind](https://www.youtube.com/user/GynvaelEN/videos)
+
+[IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/videos)
+
+[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/videos)
+
