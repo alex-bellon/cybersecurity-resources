@@ -10,6 +10,8 @@
 
 [Learn with me: VLANs & pfSense](https://www.youtube.com/watch?v=0_unEBSxqGY&feature=youtu.be)
 
+[Kerberos](https://www.tarlogic.com/en/blog/how-kerberos-works/)
+
 ## Tools
 
 ### General

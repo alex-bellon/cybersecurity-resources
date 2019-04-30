@@ -4,11 +4,19 @@
 
 ### Assembly
 
+[Online ARM Assembler](https://azm.azerialabs.com/)
+
 [Introduction to x86](https://gitlab.com/mcmfb/intro_x86-64)
 
 ### Format String
 
 [Paper](https://trailofbits.github.io/ctf/exploits/references/formatstring-1.2.pdf)
+
+### MOOCs
+
+[Modern Binary Exploitation MOOC](https://github.com/RPISEC/MBE)
+
+[How2Heap](https://github.com/shellphish/how2heap)
 
 ## Tools
 

@@ -64,6 +64,10 @@ http://magazine.hitb.org/hitb-magazine.html
 
 https://www.hacksplaining.com/lessons
 
+## MOOC
+
+https://cybersecuritybase.mooc.fi/
+
 ## News
 
 https://threatpost.com/
@@ -111,6 +115,8 @@ http://www.hackertest.net/
 http://0x0539.net/
 
 http://hacking.voyage/
+
+https://ctf.hacker101.com/about
 
 ## Privacy
 
@@ -197,4 +203,3 @@ https://www.exploit-db.com/google-hacking-database - Making it easier to use Goo
 [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/videos)
 
 [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/videos)
-

@@ -4,11 +4,33 @@
 
 [Hiding text in pixels](http://www.msarnoff.org/millitext/)
 
+[Zero width characters](https://www.zachaysan.com/writing/2017-12-30-zero-width-characters)
+
 [Zip files all the way down](https://research.swtch.com/zip)
+
+### Countdown
+
+https://incoherency.co.uk/countdown/
+
+### GIFAR
+
+- [GIFAR Linux Version](https://www.howtogeek.com/270668/how-to-hide-a-file-or-folder-in-an-image-in-linux/)
+
+- [GIFAR Wikipedia](https://en.wikipedia.org/wiki/Gifar)
+
+- [GIFAR Windows Version](https://www.howtogeek.com/119365/how-to-hide-zip-files-inside-a-picture-without-any-extra-software/)
+
+[Walkthrough](https://quadhead.de/storing-javascript-code-in-gif-images/)
+
+### Mojibake
+
+https://incoherency.co.uk/mojibake/
 
 ## Tools
 
 ### General
+
+https://georgeom.net/StegOnline/checklist
 
 [Autopsy](http://www.sleuthkit.org/autopsy/download.php) - Digital forensics platform
 
@@ -29,10 +51,6 @@
 [volatility](https://github.com/volatilityfoundation/volatility) - Volatile memory extraction utility framework
 
 [whatsapp-viewer](https://github.com/andreas-mausch/whatsapp-viewer) - Small tool to display chats from the Android msgstore.db database
-
-### JavaScript in GIF
-
-[Walkthrough](https://quadhead.de/storing-javascript-code-in-gif-images/)
 
 ### Passwords
 
@@ -70,26 +88,10 @@
 
 [WCE](https://www.ampliasecurity.com/research/windows-credentials-editor/) - Windows Credentials Editor
 
-## Steganography
+### Printing
 
-### Countdown
+[Print Watch](http://www.prnwatch.com/ok-printer-viewer/) - See what people printed
 
-https://incoherency.co.uk/countdown/
-
-### GIFAR
-
-- [GIFAR Linux Version](https://www.howtogeek.com/270668/how-to-hide-a-file-or-folder-in-an-image-in-linux/)
-
-- [GIFAR Wikipedia](https://en.wikipedia.org/wiki/Gifar)
-
-- [GIFAR Windows Version](https://www.howtogeek.com/119365/how-to-hide-zip-files-inside-a-picture-without-any-extra-software/)
-
-[Walkthrough](https://quadhead.de/storing-javascript-code-in-gif-images/)
-
-### Mojibake
-
-https://incoherency.co.uk/mojibake/
-
-### Tools
+### Steganography
 
 https://0xrick.github.io/lists/stego/
