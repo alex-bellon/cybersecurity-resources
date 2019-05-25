@@ -12,6 +12,10 @@
 
 https://incoherency.co.uk/countdown/
 
+### File Headers
+
+[File Header Cheatsheet](https://digital-forensics.sans.org/media/hex_file_and_regex_cheat_sheet.pdf)
+
 ### GIFAR
 
 - [GIFAR Linux Version](https://www.howtogeek.com/270668/how-to-hide-a-file-or-folder-in-an-image-in-linux/)
