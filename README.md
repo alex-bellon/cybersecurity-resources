@@ -118,6 +118,8 @@ http://hacking.voyage/
 
 https://ctf.hacker101.com/about
 
+[List of Practice CTF sites](http://captf.com/practice-ctf/)
+
 ## Privacy
 
 [PrivacyTools.io](https://www.privacytools.io/)
