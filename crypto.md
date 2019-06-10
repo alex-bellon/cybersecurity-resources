@@ -16,6 +16,12 @@
 
 El Gamal Encryption - Public Key Cryptosystem ([Wikipedia](https://en.wikipedia.org/wiki/ElGamal_encryption#frb-inline))
 
+## General
+
+[Dan Boneh](https://crypto.stanford.edu/~dabo/) - Crypto prof at Stanford, has a lot of good resources (including a textbook!)
+
+[The Amazing King](http://theamazingking.com/crypto.php)
+
 ## Tools
 
 [hashID](https://github.com/psypanda/hashID) - Identify the different types of hashes used to encrypt data and especially passwords.

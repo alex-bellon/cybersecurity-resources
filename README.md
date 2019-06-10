@@ -194,6 +194,18 @@ https://www.exploit-db.com/google-hacking-database - Making it easier to use Goo
 
 [Beginner's Curriculum](https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/)
 
+## Writeups
+
+### Writeups that I like, or explained problems I didn't solve, or taught me something new
+
+[Google CTF 2018 - Rubik](http://blog.ebfe.dk/ctf/2017/06/20/googlectf2017-rubik/)
+
+[TSG CTF 2019 - Obliterated File 1-2 Writeup](https://0xsaiyajin.github.io/writeup/2019/05/06/tsgctf-obliterated-file-1-2-writeup-eng.html)
+
+[UTSA Cyber CTF 2019 - Linux2](https://0xsaiyajin.github.io/writeup/2019/05/02/utsacyber-ctf-linux-2-writeup-eng.html)
+
+[UUCTF 2019](https://medium.com/bugbountywriteup/uutcf-2019-writeups-6c11ea3f9d22)
+
 ## YouTube Channels
 
 [13Cubed](https://www.youtube.com/user/davisrichardg/videos)
