@@ -56,6 +56,8 @@ https://georgeom.net/StegOnline/checklist
 
 [whatsapp-viewer](https://github.com/andreas-mausch/whatsapp-viewer) - Small tool to display chats from the Android msgstore.db database
 
+[Foremost](https://linux.die.net/man/1/foremost) - Restore files from their headers, footers and data structures
+
 ### Passwords
 
 [BEWGor](https://github.com/berzerk0/BEWGor) - Bull's Eye Wordlist Generator

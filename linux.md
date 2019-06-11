@@ -2,6 +2,8 @@
 
 ## Languages
 
+[Bash Scripting Cheat Sheet](https://devhints.io/bash)
+
 [Learn X in Y minutes](https://learnxinyminutes.com/)
 
 ## Shell/Terminal
