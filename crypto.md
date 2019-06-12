@@ -8,6 +8,8 @@
 
 [Cryptographic Attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks)
 
+[Shor's Algorithm](https://www.scottaaronson.com/blog/?p=208)
+
 ### Ciphers
 
 [Pollux Cipher](https://www.dcode.fr/pollux-cipher)
