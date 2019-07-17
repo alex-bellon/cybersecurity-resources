@@ -2,7 +2,11 @@
 
 ## Certificates
 
-[crt.sh](https://crt.sh/) - Certificate search
+### Certificate search
+
+[crt.sh](https://crt.sh/)
+[Google certificate search](https://transparencyreport.google.com/https/certificates?hl=en)
+[Entrust certifcate search](https://www.entrust.com/ct-search/)
 
 ## OSINT
 
