@@ -16,6 +16,10 @@
 
 [A Dive Into the World of DOS Viruses](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
 
+## Foreshadow
+
+[Breaking the Virtual Memory Abstraction with Transient Out-of-Order Execution](https://foreshadowattack.eu/)
+
 ### Magecart
 
 [Article](https://www.theregister.co.uk/2018/10/09/magecart_payment_card_malware/) - Stealing information through card-skimming

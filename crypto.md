@@ -12,6 +12,8 @@
 
 ### Ciphers
 
+[Beaufort Cipher](http://practicalcryptography.com/ciphers/beaufort-cipher/)
+
 [Pollux Cipher](https://www.dcode.fr/pollux-cipher)
 
 ### Encryptions

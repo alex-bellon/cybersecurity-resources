@@ -118,7 +118,11 @@ http://hacking.voyage/
 
 https://ctf.hacker101.com/about
 
+https://attackdefense.com/
+
 [List of Practice CTF sites](http://captf.com/practice-ctf/)
+
+[Black Box Society - The Box](https://blackboxsociety.org/the-box/) - Always on CTF
 
 ## Privacy
 
@@ -195,6 +199,10 @@ https://www.hacksplaining.com/
 https://www.exploit-db.com/google-hacking-database - Making it easier to use Google queries for pentesting
 
 [Beginner's Curriculum](https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/)
+
+[CTF Practice](https://zaratec.github.io/references/)
+
+[InfoSecIITR Reading Material](https://github.com/infoseciitr/reading-material)
 
 ## Writeups
 
