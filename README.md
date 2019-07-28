@@ -10,9 +10,15 @@
 
 https://please.dont-hack.me/books/hacking/
 
+https://doc.lagout.org/
+
 ## Certificate
 
+[Network+ Study Guide](https://docs.google.com/document/d/1iyFK7tvM5JVhRnNH6IWnZ07OGlHcxmEEVVv56Rccsng/edit)
+
 [OSCP](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
+
+[Security+ Study Guide](https://docs.google.com/document/d/1hXGyKDWdpJLKZWWuu5eVTh-N5simhpSlTTA-Z-dtCj0/edit)
 
 ## Cheatsheets
 

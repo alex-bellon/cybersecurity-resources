@@ -22,6 +22,8 @@ El Gamal Encryption - Public Key Cryptosystem ([Wikipedia](https://en.wikipedia.
 
 ## General
 
+[A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Full textbook online
+
 [Dan Boneh](https://crypto.stanford.edu/~dabo/) - Crypto prof at Stanford, has a lot of good resources (including a textbook!)
 
 [The Amazing King](http://theamazingking.com/crypto.php)
