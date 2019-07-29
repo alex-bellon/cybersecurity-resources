@@ -37,3 +37,20 @@ The Target tab is a tree style view of all websites in scope.
 Control what you're looking at. You can add specific domains or keywords. You can add things from this menu or right click to add things from the Site Map tab.
 
 ## Proxy Tab
+
+### HTTP History Tab
+Shows requests and responses. It will show extra info in the `Params` tab, and the headers in the `Headers` tab.
+
+## Spider Tab                  
+Will automatically try to fill out information in the site map tab. It will try to explore and enumerate every link and subdomain from the given website to try to fill out an entire site map.
+
+## Sequencer Tab
+Test the entropy of cookies, session tokens, and CSRF tokens.
+
+## Intruder Tab
+A way to automate injections and form automation. You can specify payloads for BurpSuite to go through and try. The Community Edition of BurpSuite does not include any payloads automatically.
+
+- Attack types: Sniper, Battering Ram, Pitchfork, Cluster Bomb.
+- Allows you to fuxx parameters/paths
+- Brute force passwords
+- Content discovery
