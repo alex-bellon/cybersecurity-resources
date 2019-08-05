@@ -28,6 +28,12 @@ El Gamal Encryption - Public Key Cryptosystem ([Wikipedia](https://en.wikipedia.
 
 [The Amazing King](http://theamazingking.com/crypto.php)
 
+[An Introduction to Mathematical Cryptography](https://www.math.brown.edu/~jhs/MathCryptoHome.html)
+
+## Practice
+
+[ToadStyle Cryptopals](https://toadstyle.org/cryptopals/)
+
 ## Tools
 
 [hashID](https://github.com/psypanda/hashID) - Identify the different types of hashes used to encrypt data and especially passwords.

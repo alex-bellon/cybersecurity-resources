@@ -70,6 +70,10 @@ http://magazine.hitb.org/hitb-magazine.html
 
 https://www.hacksplaining.com/lessons
 
+http://securityidiots.com
+
+https://blog.skullsecurity.org/
+
 ## MOOC
 
 https://cybersecuritybase.mooc.fi/
@@ -209,6 +213,8 @@ https://www.exploit-db.com/google-hacking-database - Making it easier to use Goo
 [CTF Practice](https://zaratec.github.io/references/)
 
 [InfoSecIITR Reading Material](https://github.com/infoseciitr/reading-material)
+
+[CTF and Pentesting Tools](https://prune2000.github.io/tools/pentest/)
 
 ## Writeups
 

@@ -12,6 +12,8 @@
 
 [cmdchallenge](https://cmdchallenge.com/) - Practice terminal commands and tools
 
+[Linux Journey](https://linuxjourney.com/) - Learn Linux commands
+
 ## Etc.
 
 [The Art of Unix Programming](https://arp242.net/taoup.html)
