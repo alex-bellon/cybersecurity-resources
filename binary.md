@@ -18,6 +18,12 @@
 
 [How2Heap](https://github.com/shellphish/how2heap)
 
+## Practice
+
+[Exploit Education](https://exploit.education/)
+
+[MicroCorruption](https://microcorruption.com/login)
+
 ## Tools
 
 [Auto-Root-Exploit](https://github.com/nilotpalbiswas/Auto-Root-Exploit/) - Find exploits on Linux Kernel

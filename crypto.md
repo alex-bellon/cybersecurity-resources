@@ -32,6 +32,8 @@ El Gamal Encryption - Public Key Cryptosystem ([Wikipedia](https://en.wikipedia.
 
 ## Practice
 
+[Cryptopals](https://cryptopals.com/)
+
 [ToadStyle Cryptopals](https://toadstyle.org/cryptopals/)
 
 ## Tools

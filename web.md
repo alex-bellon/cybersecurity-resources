@@ -6,6 +6,10 @@
 
 [The line of death](https://textslashplain.com/2017/01/14/the-line-of-death/)
 
+## Practice
+
+[PortSwigger](https://portswigger.net/web-security)
+
 ## Tools
 
 ### HTTPS & SSL
