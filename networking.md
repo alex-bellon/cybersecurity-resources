@@ -2,6 +2,10 @@
 
 ## Concepts
 
+### HTTPS/SSL
+
+[How to intercept and decode SSL traffic](https://drive.google.com/file/d/0B4k0iJfLtHaAS01BVDJDd0RpaW8/view)
+
 ### Miscellaneous
 
 [Martian Packet](https://en.wikipedia.org/wiki/Martian_packet)
@@ -82,17 +86,12 @@ https://wigle.net/ - Map of networks
 
 ### Sniffer/Spoofing
 
-[bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks
-
-[macchanger](https://github.com/alobbs/macchanger) - Utility that makes the manipulation of MAC addresses of network interfaces easier
-
-[mitmproxy](https://mitmproxy.org) - Free and open source interactive HTTPS proxy
-
-[mkcert](https://github.com/FiloSottile/mkcert) - Make locally trusted development certificates with any names you'd like
-
-[sslstrip](https://moxie.org/software/sslstrip/) - SSL/TLS man-in-the-middle attack tool
-
-[Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer
+- [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks
+- [macchanger](https://github.com/alobbs/macchanger) - Utility that makes the manipulation of MAC addresses of network interfaces easier
+- [mitmproxy](https://mitmproxy.org) - Free and open source interactive HTTPS proxy
+- [mkcert](https://github.com/FiloSottile/mkcert) - Make locally trusted development certificates with any names you'd like
+- [sslstrip](https://moxie.org/software/sslstrip/) - SSL/TLS man-in-the-middle attack tool
+- [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer
 
 ### Wireless Attacks
 

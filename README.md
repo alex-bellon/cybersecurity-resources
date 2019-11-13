@@ -1,5 +1,9 @@
 # Cybersecurity Resources
 
+## Articles
+
+[Pentesting with an Android phone](https://www.peerlyst.com/posts/pentesting-with-an-android-phone-part-1-preparing-the-phone-david-dunmore?trk=profile_page_overview_panel_posts)
+
 ## Blogs
 
 [Google Project Zero](https://googleprojectzero.blogspot.com/) - Zero day research from Google

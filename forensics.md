@@ -58,6 +58,8 @@ https://georgeom.net/StegOnline/checklist
 
 [Foremost](https://linux.die.net/man/1/foremost) - Restore files from their headers, footers and data structures
 
+[Kaitai](https://ide.kaitai.io/) - Reverse engineer different formats of files
+
 ### Passwords
 
 [BEWGor](https://github.com/berzerk0/BEWGor) - Bull's Eye Wordlist Generator

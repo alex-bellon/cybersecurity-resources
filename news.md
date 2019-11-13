@@ -16,7 +16,7 @@
 
 [A Dive Into the World of DOS Viruses](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
 
-## Foreshadow
+### Foreshadow
 
 [Breaking the Virtual Memory Abstraction with Transient Out-of-Order Execution](https://foreshadowattack.eu/)
 
@@ -27,6 +27,9 @@
 ### Portsmash
 
 [YouTube](https://youtu.be/k6PzjGwyKuY)
+
+### SSRF Against AWS
+[Interactive Tutorial](https://application.security/)
 
 ### VirtualBox Escape 0-Day
 

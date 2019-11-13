@@ -16,6 +16,10 @@
 
 [The Codebreakers](https://en.wikipedia.org/wiki/The_Codebreakers)
 
+## Competitions
+
+[International Olympiad in Cryptography](https://nsucrypto.nsu.ru/)
+
 ## Concepts
 
 [A Crash Course in Everything Cryptographic](https://medium.com/@lduck11007/a-crash-course-in-everything-cryptographic-50daa0fda482)
@@ -31,6 +35,8 @@
 [Beaufort Cipher](http://practicalcryptography.com/ciphers/beaufort-cipher/)
 
 [Pollux Cipher](https://www.dcode.fr/pollux-cipher)
+
+[VIC Cipher](https://en.wikipedia.org/wiki/VIC_cipher)
 
 ### Encryptions
 
@@ -59,3 +65,5 @@ El Gamal Encryption - Public Key Cryptosystem ([Wikipedia](https://en.wikipedia.
 [Cryptool](https://www.cryptool.org/en/cryptool-online)
 
 [Cryptoprograms](http://www.cryptoprograms.com/) - Make and decrypt ciphers
+
+[Outguess](https://web.archive.org/web/20150419030527/http://www.outguess.org/)
