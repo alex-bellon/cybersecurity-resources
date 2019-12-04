@@ -52,6 +52,8 @@ El Gamal Encryption - Public Key Cryptosystem ([Wikipedia](https://en.wikipedia.
 
 [An Introduction to Mathematical Cryptography](https://www.math.brown.edu/~jhs/MathCryptoHome.html)
 
+[Lessons learned and misconceptions regarding encryption and crypto](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology/2206#2206)
+
 ## Practice
 
 [Cryptopals](https://cryptopals.com/)

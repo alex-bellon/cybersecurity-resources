@@ -31,6 +31,9 @@
 ### SSRF Against AWS
 [Interactive Tutorial](https://application.security/)
 
+### Public SSH Keys Leaking Private Infra
+[Article](https://rushter.com/blog/public-ssh-keys/)
+
 ### VirtualBox Escape 0-Day
 
 [GitHub](https://www.reddit.com/r/netsec/comments/9uuvk2/virtualbox_escape_0day/)
