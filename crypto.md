@@ -36,6 +36,8 @@
 
 [Pollux Cipher](https://www.dcode.fr/pollux-cipher)
 
+[Sarah2 Cipher](https://laser-calcium.glitch.me/) - Sarah2 is a cipher meant to be implemented by hand with only simple tools.
+
 [VIC Cipher](https://en.wikipedia.org/wiki/VIC_cipher)
 
 ### Encryptions
