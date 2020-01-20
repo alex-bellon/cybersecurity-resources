@@ -75,6 +75,8 @@
 - [Hack the Box](https://www.hackthebox.eu/)
 - [r/AskNetSec](https://www.reddit.com/r/AskNetsec/comments/8brzbr/getting_into_pen_testinghow_do_i_dive_into_ctf)
 - [23 Practice sites, r/HowToHack](https://www.reddit.com/r/HowToHack/comments/81f3hl/23_hacking_sites_ctfs_and_wargames_to_legally)
+- [List of Practice CTF sites](http://captf.com/practice-ctf/)
+- [Black Box Society - The Box](https://blackboxsociety.org/the-box/) - Always on CTF
 - http://overthewire.org/wargames/
 - https://www.pentesterlab.com/
 - http://www.itsecgames.com/
@@ -88,8 +90,14 @@
 - http://hacking.voyage/
 - https://ctf.hacker101.com/about
 - https://attackdefense.com/
-- [List of Practice CTF sites](http://captf.com/practice-ctf/)
-- [Black Box Society - The Box](https://blackboxsociety.org/the-box/) - Always on CTF
+- http://www.gameofhacks.com/
+- http://damnvulnerableiosapp.com/
+- http://damnvulnerableiosapp.com/
+- https://defendtheweb.net/?hackthis
+- https://www.hellboundhackers.org/
+- https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html
+- https://owasp.org/www-project-juice-shop/
+- http://www.try2hack.lt/en/
 
 ## Privacy
 
@@ -148,7 +156,7 @@
 - [InfoSecIITR Reading Material](https://github.com/infoseciitr/reading-material)
 - [CTF and Pentesting Tools](https://prune2000.github.io/tools/pentest/)
 - [CTF Candy](https://github.com/flawwan/CTF-Candy) -  Useful tools and cheat sheet for Captures The Flag (CTF) contests.
-- [USCGA Tools](https://github.com/USCGA/tools) - 
+- [USCGA Tools](https://github.com/USCGA/tools) -
 The purpose of this repository is to act as an archive of tools that either we USCGA Cyber Team have built on our own or use.
 
 
