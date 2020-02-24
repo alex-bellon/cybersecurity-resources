@@ -58,6 +58,7 @@ https://georgeom.net/StegOnline/checklist
 - [hashcat](https://hashcat.net/hashcat/) - Advanced Password Recovery
 - [John the Ripper](https://www.openwall.com/john/) - A fast password cracker
  - [John tutorial](https://charlesreid1.com/wiki/John_the_Ripper/Password_Generation)
+ - [Another John tutorial](https://blog.sleeplessbeastie.eu/2015/05/25/how-to-crack-archive-password-faster/)
 - [KON-BOOT](https://www.piotrbania.com/all/kon-boot/) - Wim/Mac password breaker
 - [LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
