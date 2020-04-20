@@ -98,6 +98,7 @@
 - https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html
 - https://owasp.org/www-project-juice-shop/
 - http://www.try2hack.lt/en/
+- [CryptoHack](https://cryptohack.org/challenges/)
 
 ## Privacy
 
