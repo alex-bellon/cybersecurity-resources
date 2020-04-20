@@ -46,6 +46,7 @@
 
 - [Cryptopals](https://cryptopals.com/)
 - [ToadStyle Cryptopals](https://toadstyle.org/cryptopals/)
+- [CryptoHack](https://cryptohack.org/challenges/)
 
 ## Tools
 
