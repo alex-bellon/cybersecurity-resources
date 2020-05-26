@@ -27,7 +27,7 @@
 - [Sarah2 Cipher](https://laser-calcium.glitch.me/) - Sarah2 is a cipher meant to be implemented by hand with only simple tools.
 - [VIC Cipher](https://en.wikipedia.org/wiki/VIC_cipher)
 
-### Encryptions
+### Encryption
 - El Gamal Encryption - Public Key Cryptosystem ([Wikipedia](https://en.wikipedia.org/wiki/ElGamal_encryption#frb-inline))
 
 ## General
@@ -44,6 +44,7 @@
 - [CryptoHack](https://cryptohack.org/challenges/)
 
 ## Tools
+- [cryptobin](https://github.com/avanpo/cryptobin) - crypto and puzzle tools
 - [hashID](https://github.com/psypanda/hashID) - Identify the different types of hashes used to encrypt data and especially passwords.
 - [Cryptool](https://www.cryptool.org/en/cryptool-online)
 - [Cryptoprograms](http://www.cryptoprograms.com/) - Make and decrypt ciphers

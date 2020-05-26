@@ -122,6 +122,9 @@
 - http://seanux.net/index/en
 - http://sourceforge.net/p/attackvector/wiki/Home/(edited)
 
+### Tools
+- [ctf-katana](https://github.com/ctf-katana/katana) - Automatic CTF Challenge Solver in Python3
+
 ## Talks
 - [BugBounty Talk](https://docs.google.com/presentation/d/1xgvEScGZ_ukNY0rmfKz1JN0sn-CgZY_rTp2B_SZvijk/mobilepresent#slide=id.g4052c4692d_0_0)
 
@@ -142,8 +145,12 @@
 - [USCGA Tools](https://github.com/USCGA/tools) -
 The purpose of this repository is to act as an archive of tools that either we USCGA Cyber Team have built on our own or use.
 
-
 ## Writeups
+
+### Writeup Repos
+- [bl4de](https://github.com/bl4de/ctf)
+- [p4](https://github.com/p4-team/ctf)
+- [sixstars](https://github.com/sixstars/ctf)
 
 ### Writeups that I like, or explained problems I didn't solve, or taught me something new
 - [Google CTF 2018 - Rubik](http://blog.ebfe.dk/ctf/2017/06/20/googlectf2017-rubik/)
