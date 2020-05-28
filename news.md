@@ -10,6 +10,9 @@
 ### Android Trojan
 - [Android Trojan steals money from PayPal accounts](https://www.welivesecurity.com/2018/12/11/android-trojan-steals-money-paypal-accounts-2fa/)
 
+### Dirty Sock
+- [Dirty Sock](https://github.com/initstring/dirty_sock) - Linux privilege escalation exploit via snapd (CVE-2019-7304)
+
 ### DOS
 - [A Dive Into the World of DOS Viruses](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
 

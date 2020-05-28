@@ -1,23 +1,16 @@
 # Git
 
 ## General
-
-[GitHub Learning Lab](https://lab.github.com/)
-
-[Think Like a Git](http://think-like-a-git.net/) - Really good explanation for "medium" level users
-
-[Git Internals](https://github.com/pluralsight/git-internals-pdf/releases)
+- [GitHub Learning Lab](https://lab.github.com/)
+- [Think Like a Git](http://think-like-a-git.net/) - Really good explanation for "medium" level users
+- [Git Internals](https://github.com/pluralsight/git-internals-pdf/releases)
 
 ## Articles
-
-[How to Become a Git Expert](https://link.medium.com/yEfwpuWs8R)
-
-[Git Aliases](https://medium.freecodecamp.org/an-intro-to-git-aliases-a-faster-way-of-working-with-git-b1eda81c7747)
-
-[Syncing GitLab and GitHub Repos](https://everythingshouldbevirtual.com/git/syncing-gitlab-and-github-repos/)
+- [How to Become a Git Expert](https://link.medium.com/yEfwpuWs8R)
+- [Git Aliases](https://medium.freecodecamp.org/an-intro-to-git-aliases-a-faster-way-of-working-with-git-b1eda81c7747)
+- [Syncing GitLab and GitHub Repos](https://everythingshouldbevirtual.com/git/syncing-gitlab-and-github-repos/)
 
 ## Notes
-
 - git pull = git fetch + git merge origin/master
 - `git log --oneline --abbrev-commit --all --graph --decorate --color`
 
