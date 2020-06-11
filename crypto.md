@@ -11,6 +11,7 @@
 
 ## Blogs
 - [BitsDeep](https://bitsdeep.com/)
+- [Crypto for Social Good](https://cs.brown.edu/~seny/2950v/) - Class focused on the impact of crypto & privacy on marginalized groups
 
 ## Competitions
 - [International Olympiad in Cryptography](https://nsucrypto.nsu.ru/)
