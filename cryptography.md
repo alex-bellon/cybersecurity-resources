@@ -1,5 +1,17 @@
 # Cryptography
 
+## Articles
+- Enigma
+  - [AMS Article](http://www.ams.org/publicoutreach/feature-column/fcarc-enigma)
+  - [Codes and Ciphers Book (Ch 9)](http://www.ik4hdq.net/codici_cifr.pdf)
+
+## Blogs
+- [BitsDeep](https://bitsdeep.com/)
+- [Crypto for Social Good](https://cs.brown.edu/~seny/2950v/) - Class focused on the impact of crypto & privacy on marginalized groups
+
+## Competitions
+- [International Olympiad in Cryptography](https://nsucrypto.nsu.ru/)
+
 ## Books
 - [Applied Cryptography](https://www.schneier.com/books/applied_cryptography/)
 - [Cracking codes with Python](https://nostarch.com/crackingcodes)
@@ -9,14 +21,8 @@
 - [The Codebreakers](https://en.wikipedia.org/wiki/The_Codebreakers)
 - [Crypto101](https://www.crypto101.io/)
 
-## Blogs
-- [BitsDeep](https://bitsdeep.com/)
-- [Crypto for Social Good](https://cs.brown.edu/~seny/2950v/) - Class focused on the impact of crypto & privacy on marginalized groups
-
-## Competitions
-- [International Olympiad in Cryptography](https://nsucrypto.nsu.ru/)
-
 ## Concepts
+
 - [A Crash Course in Everything Cryptographic](https://medium.com/@lduck11007/a-crash-course-in-everything-cryptographic-50daa0fda482)
 - [A Guide to Post-Quantum Cryptography](https://hackernoon.com/a-guide-to-post-quantum-cryptography-d785a70ea04b)
 - [Cryptographic Attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks)
@@ -28,8 +34,57 @@
 - [Sarah2 Cipher](https://laser-calcium.glitch.me/) - Sarah2 is a cipher meant to be implemented by hand with only simple tools.
 - [VIC Cipher](https://en.wikipedia.org/wiki/VIC_cipher)
 
-### Encryption
-- El Gamal Encryption - Public Key Cryptosystem ([Wikipedia](https://en.wikipedia.org/wiki/ElGamal_encryption#frb-inline))
+### Diffie Hellman
+- Encryption without padding is insecure
+  - Encryption: SAEP, OAEP+
+  - Signature: PSS
+- Diffie Hellman relies on:
+    - Discrete log problem
+    - Computational DH problem
+    - Decisional DH problem
+  - Use this setting for public key crypto (Cramer-Shoup) or signatures (Schnorr, DSA). Mostly used for DH though.
+  - Really for this setting you just need a group G = <G> of prime order q when DDH problem is hard
+  - Can also get this structure from the group of points of an elliptic curve
+    - Advantages
+      - Much smaller parameters
+      - Much more efficient operations
+      - Picking parameters is easier and less error-prone
+    - Modern protocols use
+      - ECDH for key exchange
+      - ECDSA, RSA (legacy) for signatures
+Mod p, every invertible element has order dividing p-1 (with operation multiplication)
+
+### RSA
+#### keyGen
+- pick primes p, q
+- set N = pq
+- set e = 65537
+- compute d s.t. e * d ≡ 1 mod (p - 1)(q - 1)
+
+#### RSA function
+f: (**Z**/N**Z**)<sup>x</sup> -> (**Z**/N**Z**)<sup>x</sup>
+
+f: x -> x<sup>e</sup> mod N
+
+f<sup>-1</sup>: y -> y<sup>d</sup> mod N
+
+#### Hard problems
+**Factoring**: given N, find p and q
+
+**RSA problem**: given N, e, y, find x s.t.x<sup>e</sup> = y
+
+#### Signatures from RSA
+**KeyGen**: pubkey = (N, e), seckey = d
+
+**Sign M**: σ = [Pack(M)]<sup>d</sup> mod N, Pack in (**Z**/N**Z**)<sup>x</sup>
+
+**Verify**: σ<sup>e</sup> ≡ Pack(M) mod N
+
+#### Encryption from RSA
+k <- AE keyspace<br>
+c = E Pack(k)<sup>e</sup> mod N
+
+**Decrypt**: E Unpack(c<sup>d</sup> mod N) to get x
 
 ## Learning
 - [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Full textbook online
@@ -39,11 +94,29 @@
 - [Lessons learned and misconceptions regarding encryption and crypto](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology/2206#2206)
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
 - [Practical Crypto](https://github.com/matthewdgreen/practicalcrypto) - Repository for course materials and slides for Practical Cryptographic Systems, JHU CS 445/645.
+- [Advanced Crypto Notes](https://cs.nyu.edu/courses/fall09/G22.3220-001/index.html) - Notes from NYU
+- [Advanced Topics in Cryptography](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-876j-advanced-topics-in-cryptography-spring-2003/lecture-notes/) - MIT OCW course
+- [Cryptography Notes](https://people.eecs.berkeley.edu/~luca/cs276/#notes) - Notes from UC Berkeley
+- [Intro to Cryptography Notes](https://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) - Notes from NYU
+- [Intro to Cryptography Notes](https://sites.fas.harvard.edu/~cs120/lectures/) - Notes from Harvard
+- [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - Cryptography Notes by Shafi Goldwasser
+- [Scribed Lecture Notes](https://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) - Lecture notes from Grad Crypto at University of Maryland
+- [Lattices in Computer Science](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/index.html) - Lattice based cryptography notes from NYU
+- [Lattice Based Cryptography and Applications](https://cyber.biu.ac.il/event/the-2nd-biu-winter-school/) - Lattice crypto notes from BIU
+- [Lattice Based Cryptography and Applications](https://cyber.biu.ac.il/event/the-2nd-biu-winter-school/) - Lattice crypto notes from BIU
+- [Advanced Topics in Cryptography: Lattices](https://people.csail.mit.edu/vinodv/6876-Fall2015/index.html) - notes from MIT
+- [Lightweight Introduction to Lattices](https://www.cryptool.org/images/ctp/documents/Lattice-Introduction_v015.pdf)
+- [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
 
 ## Practice
 - [Cryptopals](https://cryptopals.com/)
 - [ToadStyle Cryptopals](https://toadstyle.org/cryptopals/)
 - [CryptoHack](https://cryptohack.org/challenges/)
+
+## Reddit
+- [Does a one time pad expose itself as a one time pad?](https://www.reddit.com/r/crypto/comments/bcytd6/does_a_one_time_pad_expose_itself_as_a_one_time/s)
+- [How are repeated IVs used to crack the key?](https://www.reddit.com/r/crypto/comments/brdgnl/how_are_repeated_ivs_used_to_crack_the_key/)
+- [Nonce reuse vs IV reuse](https://www.reddit.com/r/crypto/comments/fnku50/nonce_reuse_vs_iv_reuse/)
 
 ## Tools
 - [AntiMersenne](https://github.com/nh2/AntiMersenne) - Predicting Python's Mersenne twister PRNG for 30c3 CTF, with Python calling Java, yeah
