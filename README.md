@@ -154,6 +154,7 @@
 ## Talks
 - [BugBounty Talk](https://docs.google.com/presentation/d/1xgvEScGZ_ukNY0rmfKz1JN0sn-CgZY_rTp2B_SZvijk/mobilepresent#slide=id.g4052c4692d_0_0)
 - [Awesome Sec Talks](https://github.com/PaulSec/awesome-sec-talks)
+- [Stanford Security Seminar](https://crypto.stanford.edu/seclab/sem.html)
 
 ## Websites
 - [Really nice website for figuring out where to start on CTF problems](https://ctf101.org/)

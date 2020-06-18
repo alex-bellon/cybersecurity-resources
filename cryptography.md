@@ -108,6 +108,9 @@ c = E Pack(k)<sup>e</sup> mod N
 - [Lightweight Introduction to Lattices](https://www.cryptool.org/images/ctp/documents/Lattice-Introduction_v015.pdf)
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
 
+## Papers
+- [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
+
 ## Practice
 - [Cryptopals](https://cryptopals.com/)
 - [ToadStyle Cryptopals](https://toadstyle.org/cryptopals/)
