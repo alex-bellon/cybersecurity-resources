@@ -32,6 +32,7 @@
 - [bulk_extractor](https://github.com/simsong/bulk_extractor) - Scans a disk image, a file, or a directory of files
 - [dc3dd](https://sourceforge.net/projects/dc3dd/) - A patched version of GNU dd with added features for computer forensics
 - [DumpsterDiver](https://github.com/securing/DumpsterDiver) - Analyze big volumes of various file types in search of hardcoded secrets
+- [Entropy](https://github.com/lsauer/entropy) - ent is a small, fast command line utility, plotting various entropy related metrics of files or pipe/stdin streams 
 - [ExifTool](https://github.com/exiftool/exiftool) - Read, Write and Edit Exif metadata
 - [Foremost](https://linux.die.net/man/1/foremost) - Restore files from their headers, footers and data structures
 - [frida-extract](https://github.com/OALabs/frida-extract) - Based RunPE extraction tool
@@ -71,5 +72,5 @@
 ### Steganography
 - https://0xrick.github.io/lists/stego/
 - [Chess Steganography](https://github.com/jes/chess-steg)
-- [spectrology](https://github.com/solusipse/spectrology) - Images to audio files with corresponding spectrograms encoder. 
+- [spectrology](https://github.com/solusipse/spectrology) - Images to audio files with corresponding spectrograms encoder.
 - [Stego Toolkit](https://github.com/DominicBreuker/stego-toolkit) - Collection of steganography tools - helps with CTF challenges
