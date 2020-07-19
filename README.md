@@ -84,7 +84,6 @@
 - [r/AskNetSec](https://www.reddit.com/r/AskNetsec/comments/8brzbr/getting_into_pen_testinghow_do_i_dive_into_ctf)
 - [23 Practice sites, r/HowToHack](https://www.reddit.com/r/HowToHack/comments/81f3hl/23_hacking_sites_ctfs_and_wargames_to_legally)
 - [List of Practice CTF sites](http://captf.com/practice-ctf/)
-
 - [Hack the Box](https://www.hackthebox.eu/)
 - [Black Box Society - The Box](https://blackboxsociety.org/the-box/) - Always on CTF
 - [Over The Wire](http://overthewire.org/wargames/)
@@ -172,6 +171,7 @@
 - [CTF Candy](https://github.com/flawwan/CTF-Candy) - Useful tools and cheat sheet for Captures The Flag (CTF) contests.
 - [USCGA Tools](https://github.com/USCGA/tools) - The purpose of this repository is to act as an archive of tools that either we USCGA Cyber Team have built on our own or use.
 - [The Hacker's Choice Tips and Tricks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
+- [Hacker Education Resources](https://www.hackerone.com/sites/default/files/2020-01/Educational%20Resource%20Guide%20-%20Interactive.pdf) - from Hacker101
 
 ## Writeups
 
