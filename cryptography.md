@@ -115,6 +115,7 @@ c = E Pack(k)<sup>e</sup> mod N
 - [Cryptopals](https://cryptopals.com/)
 - [ToadStyle Cryptopals](https://toadstyle.org/cryptopals/)
 - [CryptoHack](https://cryptohack.org/challenges/)
+  - [CryptoHack Docker](https://github.com/hyperreality/cryptohack-docker)
 
 ## Reddit
 - [Does a one time pad expose itself as a one time pad?](https://www.reddit.com/r/crypto/comments/bcytd6/does_a_one_time_pad_expose_itself_as_a_one_time/s)

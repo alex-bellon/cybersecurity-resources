@@ -61,8 +61,9 @@
 - [pycurity](https://github.com/ninijay/pycurity) - Python Security Scripts
 - [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
 
-## MOOC
+## MOOC/Classes
 - https://cybersecuritybase.mooc.fi/
+- [Attacks on Implementations of Secure Systems](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
 
 ## Movies
 - [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
