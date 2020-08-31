@@ -2,6 +2,7 @@
 
 ## Articles
 - [Pentesting with an Android phone](https://www.peerlyst.com/posts/pentesting-with-an-android-phone-part-1-preparing-the-phone-david-dunmore?trk=profile_page_overview_panel_posts)
+- [Creating a Trojan](https://github.com/1d8/trojan)
 
 ## Blogs
 - [Google Project Zero](https://googleprojectzero.blogspot.com/) - Zero day research from Google
@@ -19,6 +20,7 @@
 - [Security+ Study Guide](https://docs.google.com/document/d/1hXGyKDWdpJLKZWWuu5eVTh-N5simhpSlTTA-Z-dtCj0/edit)
 
 ## Cheatsheets
+- [CIS Controls List](https://www.cisecurity.org/controls/cis-controls-list/)
 - [Must have cheatsheet, r/AskNetSec](https://www.reddit.com/r/AskNetsec/comments/98jqgb/what_are_some_must_have_cheatsheets/)
 - [Netcat Cheat Sheet](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
 - [PenTesting tools cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
