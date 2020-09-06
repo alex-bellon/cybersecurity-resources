@@ -27,11 +27,13 @@
 - [BeeRoot](https://github.com/AlessandroZ/BeRoot) - Find a way to escalate our privilege
 - [DccwBypassUAC](https://github.com/L3cr0f/DccwBypassUAC) - Windows 8.1 and 10 UAC bypass abusing WinSxS in "dccw.exe"
 - [Format String Exploit](https://github.com/Inndy/formatstring-exploit) - Dead simple format string exploit payload generator
+- [gef](https://github.com/hugsy/gef) - GDB Enhanced Features for exploit devs & reversers
 - [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) - Embeds a PowerShell script in the pixels of a PNG file
 - [KeeFarce](https://github.com/denandz/KeeFarce) - Extracts passwords from a KeePass 2.x database, directly from memory
 - [koadic](https://github.com/zerosum0x0/koadic) - C3 COM Command & Control
 - [meterssh](https://github.com/trustedsec/meterssh) - Inject shellcode into memory and tunnel port over SSH
 - [Online x86 Assembler](https://defuse.ca/online-x86-assembler.htm) - Online x86 Intel Assembler
 - [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - Collection of PowerShell utilities
+- [pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library 
 - [UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [WinPwnage](https://github.com/rootm0s/WinPwnage) - Elevate, UAC bypass, privilege escalation, dll hijack techniques

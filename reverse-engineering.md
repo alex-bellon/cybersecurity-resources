@@ -14,3 +14,5 @@
 
 ## Tools
 - [Cutter](https://github.com/radareorg/cutter) - Free and Open Source Reverse Engineering Platform powered by radare2
+- [Ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
+- [objdump](https://sourceware.org/binutils/docs/binutils/objdump.html) - Displays the hex and assembly for a binary file

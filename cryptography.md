@@ -123,13 +123,15 @@ c = E Pack(k)<sup>e</sup> mod N
 - [Nonce reuse vs IV reuse](https://www.reddit.com/r/crypto/comments/fnku50/nonce_reuse_vs_iv_reuse/)
 
 ## Tools
-- [AntiMersenne](https://github.com/nh2/AntiMersenne) - Predicting Python's Mersenne twister PRNG for 30c3 CTF, with Python calling Java, yeah
+- [AntiMersenne](https://github.com/nh2/AntiMersenne) - Predicting Python's Mersenne twister PRNG for 30c3 CTF, with Python calling Java
+- [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decode encryptions without a key, decode encodings, and crack hashes 
 - [cribdrag](https://github.com/SpiderLabs/cribdrag) - an interactive crib dragging tool for cryptanalysis on ciphertext generated with reused or predictable stream cipher keys
 - [Crib Dragging Auto Cracker](https://github.com/yhuag/Crib-Dragging-Auto-Cracker) - The project is to crack crib dragging in an efficient way. It will crib drag 5,000 most common English vocabularies on the cipher text and collect all the words that are partially/entirely recognized as an English word.
 - [crypto_misc](https://github.com/elliptic-shiho/crypto_misc) - Paper Implementation, Practice code, Cryptographic some others.
 - [cryptobin](https://github.com/avanpo/cryptobin) - crypto and puzzle tools
 - [Crypton](https://github.com/ashutosh1206/Crypton) -  Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges from CTFs
 - [Cryptool](https://www.cryptool.org/en/cryptool-online)
+- [CryptoTools](https://cryptotools.net/) - a suite of cryptographic utilities for convenience that operate entirely on the client side. No calculations take place on the server, nor is any data generated or used here sent to the server.
 - [Cryptoprograms](http://www.cryptoprograms.com/) - Make and decrypt ciphers
 - [Decodify](https://github.com/s0md3v/Decodify) - It can detect and decode encoded strings, recursively.
 - [hashID](https://github.com/psypanda/hashID) - Identify the different types of hashes used to encrypt data and especially passwords.
