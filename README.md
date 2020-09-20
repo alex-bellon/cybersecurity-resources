@@ -152,6 +152,7 @@
 - [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [PyCk](https://github.com/Naategh/PyCk) - A collection of useful Python hacking scripts for beginners
 - [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - A collection of open source and commercial tools that aid in red team operations.
+- [Hacking tools](https://en.kali.tools/all/)
 
 ## Talks
 - [BugBounty Talk](https://docs.google.com/presentation/d/1xgvEScGZ_ukNY0rmfKz1JN0sn-CgZY_rTp2B_SZvijk/mobilepresent#slide=id.g4052c4692d_0_0)
