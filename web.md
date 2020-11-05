@@ -88,7 +88,8 @@
 - [wafw00f](https://github.com/EnableSecurity/wafw00f) - Fingerprint Web Application Firewall (WAF)
 - [w3af](http://w3af.org) - Web Application Attack and Audit Framework
 - [Wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
-- [WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems[WPscan](https://wpscan.org) - WordPress vulnerability scanner
+- [WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
+- [WPscan](https://wpscan.org) - WordPress vulnerability scanner
 - [JCS](https://github.com/TheM4hd1/JCS) - Joomla Vulnerability Component Scanner
 - [JSONBee](https://github.com/zigoo0/JSONBee) - A ready to use JSONP endpoints/payloads to help bypass content security policy (CSP) of different websites.
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
