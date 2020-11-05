@@ -17,10 +17,10 @@ A collection of links, notes, programs, websites, etc. related to CTFs and cyber
 - [General](general.md)
 - [Hardening](hardening.md)
 - [Linux](linux.md)
+- [Misc Tools](misc-tools.md)
 - [Windows](windows.md)
 
 ### Misc
 - [Career](career.md)
 - [Example Problems](example-problems.md)
-- [Misc Tools](misc-tools.md)
 - [News](news.md)
