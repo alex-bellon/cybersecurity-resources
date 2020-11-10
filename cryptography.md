@@ -36,51 +36,60 @@
 - [VIC Cipher](https://en.wikipedia.org/wiki/VIC_cipher)
 
 ### Diffie Hellman
-- Encryption without padding is insecure
-  - Encryption: SAEP, OAEP+
-  - Signature: PSS
-- Diffie Hellman relies on:
-    - Discrete log problem
-    - Computational DH problem
-    - Decisional DH problem
-  - Use this setting for public key crypto (Cramer-Shoup) or signatures (Schnorr, DSA). Mostly used for DH though.
-  - Really for this setting you just need a group G = <G> of prime order q when DDH problem is hard
-  - Can also get this structure from the group of points of an elliptic curve
-    - Advantages
-      - Much smaller parameters
-      - Much more efficient operations
-      - Picking parameters is easier and less error-prone
-    - Modern protocols use
-      - ECDH for key exchange
-      - ECDSA, RSA (legacy) for signatures
-Mod p, every invertible element has order dividing p-1 (with operation multiplication)
+<details>
+  <summary>Notes</summary>
+
+  - Encryption without padding is insecure
+    - Encryption: SAEP, OAEP+
+    - Signature: PSS
+  - Diffie Hellman relies on:
+      - Discrete log problem
+      - Computational DH problem
+      - Decisional DH problem
+    - Use this setting for public key crypto (Cramer-Shoup) or signatures (Schnorr, DSA). Mostly used for DH though.
+    - Really for this setting you just need a group G = <G> of prime order q when DDH problem is hard
+    - Can also get this structure from the group of points of an elliptic curve
+      - Advantages
+        - Much smaller parameters
+        - Much more efficient operations
+        - Picking parameters is easier and less error-prone
+      - Modern protocols use
+        - ECDH for key exchange
+        - ECDSA, RSA (legacy) for signatures
+  Mod p, every invertible element has order dividing p-1 (with operation multiplication)
+
+</details>
 
 ### RSA
-#### keyGen
-- pick primes p, q
-- set N = pq
-- set e = 65537
-- compute d s.t. e * d ≡ 1 mod (p - 1)(q - 1)
+<details>
+  <summary>Notes</summary>
 
-#### RSA function
-- f: (**Z**/N**Z**)<sup>x</sup> -> (**Z**/N**Z**)<sup>x</sup>
-- f: x -> x<sup>e</sup> mod N
-- f<sup>-1</sup>: y -> y<sup>d</sup> mod N
+  #### keyGen
+  - pick primes p, q
+  - set N = pq
+  - set e = 65537
+  - compute d s.t. e * d ≡ 1 mod (p - 1)(q - 1)
 
-#### Hard problems
-- **Factoring**: given N, find p and q
-- **RSA problem**: given N, e, y, find x s.t.x<sup>e</sup> = y
+  #### RSA function
+  - f: (**Z**/N**Z**)<sup>x</sup> -> (**Z**/N**Z**)<sup>x</sup>
+  - f: x -> x<sup>e</sup> mod N
+  - f<sup>-1</sup>: y -> y<sup>d</sup> mod N
 
-#### Signatures from RSA
-- **KeyGen**: pubkey = (N, e), seckey = d
-- **Sign M**: σ = [Pack(M)]<sup>d</sup> mod N, Pack in (**Z**/N**Z**)<sup>x</sup>
-- **Verify**: σ<sup>e</sup> ≡ Pack(M) mod N
+  #### Hard problems
+  - **Factoring**: given N, find p and q
+  - **RSA problem**: given N, e, y, find x s.t.x<sup>e</sup> = y
 
-#### Encryption from RSA
-k <- AE keyspace<br>
-c = E Pack(k)<sup>e</sup> mod N
+  #### Signatures from RSA
+  - **KeyGen**: pubkey = (N, e), seckey = d
+  - **Sign M**: σ = [Pack(M)]<sup>d</sup> mod N, Pack in (**Z**/N**Z**)<sup>x</sup>
+  - **Verify**: σ<sup>e</sup> ≡ Pack(M) mod N
 
-**Decrypt**: E Unpack(c<sup>d</sup> mod N) to get x
+  #### Encryption from RSA
+  k <- AE keyspace<br>
+  c = E Pack(k)<sup>e</sup> mod N
+
+  **Decrypt**: E Unpack(c<sup>d</sup> mod N) to get x
+</details>
 
 ## Infographics
 - [Elliptic Curve Cryptography](http://fails.org/ecc.pdf)
@@ -109,6 +118,7 @@ c = E Pack(k)<sup>e</sup> mod N
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
 
 ## Papers
+- [1Password Design Whitepaper](https://1password.com/files/1Password-White-Paper.pdf)
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 
 ## Practice
