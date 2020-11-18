@@ -6,7 +6,6 @@ This file contains more general resources. For tools, courses, etc. that are spe
 - [Corelan Articles](https://www.corelan.be/index.php/articles/) - This is a hand-picked list of blog posts that belong together / are related to each other
 - [Creating a Trojan](https://github.com/1d8/trojan)
 - [InfoSecIITR Reading Material](https://github.com/infoseciitr/reading-material)
-- [Pentesting with an Android phone](https://www.peerlyst.com/posts/pentesting-with-an-android-phone-part-1-preparing-the-phone-david-dunmore?trk=profile_page_overview_panel_posts)
 
 ## Blogs
 - [Filippo Valsorda's Blog](https://blog.filippo.io/) - Filippo is in charge of cryptography and security on the Go team at Google
@@ -32,7 +31,6 @@ This file contains more general resources. For tools, courses, etc. that are spe
 - [Must have cheatsheets, r/AskNetSec](https://www.reddit.com/r/AskNetsec/comments/98jqgb/what_are_some_must_have_cheatsheets/)
 - [Netcat Cheat Sheet](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
 - [OWASP Cheat Sheets](https://github.com/OWASP/CheatSheetSeries)
-- [PenTesting tools cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 
 ## Learning
 - [CTF 101](https://ctf101.org/) - Explanations of the common categories of CTF problems
@@ -89,7 +87,6 @@ This file contains more general resources. For tools, courses, etc. that are spe
 - [Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/) - An app for users to test their iOS penetration testing skills
 - [Defend the Web](https://defendtheweb.net/) - An Interactive Cyber Security Platform
 - [Game of Hacks](http://www.gameofhacks.com/) - This game was designed to test your application hacking skills. You will be presented with vulnerable pieces of code and your mission if you choose to accept it is to find which vulnerability exists in that code as quickly as possible
-- [HackTheBox](https://www.hackthebox.eu/) - Site to practice penetration testing on various boxes'
 - [HackThisSite](https://www.hackthissite.org/) - HackThisSite.org is a free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
 - [Hacker.org Challenge](http://www.hacker.org/challenge/)
 - [Hacker Gateway](https://www.hackergateway.com/) - We offer computer-related problems, also known as challenges, that span many categories, including cryptography, steganography, security, programming and more.
@@ -97,7 +94,6 @@ This file contains more general resources. For tools, courses, etc. that are spe
 - [Hax.tor](http://hax.tor.hu/welcome/) - old wargame
 - [Hellbound Hackers](https://www.hellboundhackers.org/) - Learn how hackers break in, and how to keep them out.
 - [OverTheWire Wargames](https://overthewire.org/wargames/) - The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
-- [PentesterLab](https://www.pentesterlab.com/) - Our exercises cover everything from basic bugs to advanced vulnerabilities.
 - [PicoCTF](https://picoctf.org/) - Beginner-level CTF with years worth of archives
 - [Practice CTF List](https://captf.com/practice-ctf/) - List of CTF practice sites
 - [ringzer0ctf](https://ringzer0ctf.com/challenges) - CTF practice cite that requires writeups
@@ -149,7 +145,6 @@ This file contains more general resources. For tools, courses, etc. that are spe
   - [Repo](https://github.com/gchq/CyberChef)
 - [Hacking tools](https://en.kali.tools/all/)
 - [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [Pentest tools](https://prune2000.github.io/tools/pentest/)
 - [PyCk](https://github.com/Naategh/PyCk) - A collection of useful Python hacking scripts for beginners
 - [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - A collection of open source and commercial tools that aid in red team operations.
 - [USCGA Tools](https://github.com/USCGA/tools) - The purpose of this repository is to act as an archive of tools that either we USCGA Cyber Team have built on our own or use.

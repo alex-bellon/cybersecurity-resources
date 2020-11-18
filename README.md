@@ -18,6 +18,7 @@ A collection of links, notes, programs, websites, etc. related to CTFs and cyber
 - [Hardening](hardening.md)
 - [Linux](linux.md)
 - [Misc Tools](misc-tools.md)
+- [Penetration Testing](pentesting.md)
 - [Windows](windows.md)
 
 ### Misc
