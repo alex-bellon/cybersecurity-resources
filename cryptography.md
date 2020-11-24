@@ -10,17 +10,19 @@
 - [Crypto for Social Good](https://cs.brown.edu/~seny/2950v/) - Class focused on the impact of crypto & privacy on marginalized groups
 - [Cryptologie](https://www.cryptologie.net/)
 
-## Competitions
-- [International Olympiad in Cryptography](https://nsucrypto.nsu.ru/)
-
 ## Books
 - [Applied Cryptography](https://www.schneier.com/books/applied_cryptography/)
 - [Cracking codes with Python](https://nostarch.com/crackingcodes)
 - [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/)
+- Crypto: How the Code Rebels Beat the Government - Saving Privacy in the Digital Age
 - [Serious Cryptography](https://nostarch.com/seriouscrypto)
 - [The Code Book](https://en.wikipedia.org/wiki/The_Code_Book)
 - [The Codebreakers](https://en.wikipedia.org/wiki/The_Codebreakers)
 - [Crypto101](https://www.crypto101.io/)
+- Understanding Cryptography - Paar and Pelzl (solutions online)
+
+## Competitions
+- [International Olympiad in Cryptography](https://nsucrypto.nsu.ru/)
 
 ## Concepts
 - [A Crash Course in Everything Cryptographic](https://medium.com/@lduck11007/a-crash-course-in-everything-cryptographic-50daa0fda482)
