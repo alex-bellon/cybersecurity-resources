@@ -10,6 +10,8 @@ This file contains more general resources. For tools, courses, etc. that are spe
 ## Blogs
 - [Filippo Valsorda's Blog](https://blog.filippo.io/) - Filippo is in charge of cryptography and security on the Go team at Google
 - [Google Project Zero](https://googleprojectzero.blogspot.com/) - Zero day research from Google
+- [HackTricks](https://book.hacktricks.xyz/)
+- [neonsea](https://nns.ee/blog/)
 - [Phrack](https://phrack.org)
 - [SkullSecurity](https://blog.skullsecurity.org/)
 

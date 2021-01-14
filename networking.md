@@ -17,7 +17,7 @@
 
 ### General
 - [bing-ip2hosts](https://www.morningstarsecurity.com/research/bing-ip2hosts) - Enumerate hostnames from Bing
-- [crackmapexec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks 
+- [crackmapexec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [datasploit](https://github.com/DataSploit/datasploit) - OSINT Framework to perform various recon techniques
 - [dnsenum](https://github.com/fwaeytens/dnsenum) - Perl script that enumerates DNS information
 - [dnsmap](https://code.google.com/archive/p/dnsmap/downloads) - Subdomain brute-forcing
