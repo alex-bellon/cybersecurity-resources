@@ -118,6 +118,7 @@
 - [Advanced Topics in Cryptography: Lattices](https://people.csail.mit.edu/vinodv/6876-Fall2015/index.html) - notes from MIT
 - [Lightweight Introduction to Lattices](https://www.cryptool.org/images/ctp/documents/Lattice-Introduction_v015.pdf)
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
+- [Applied Cryptology](https://www.youtube.com/watch?v=YhW5obgPCM4&list=PLUoixF7agmIvqZtb8XxfOxTuYsuYOrgck)
 
 ## Papers
 - [1Password Design Whitepaper](https://1password.com/files/1Password-White-Paper.pdf)
