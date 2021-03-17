@@ -1,8 +1,8 @@
 # Reconnaisance
 
 ## Tools
-
 - [pdlist](https://github.com/gnebbia/pdlist) - pdlist is a passive subdomain finder written in python3. This tool can be used effectively to collect information about a domain without ever sending a single packet to any of its hosts.
+- [shorteners](https://shorteners.grayhatwarfare.com/) - search exposed shortened URLs
 
 ### Certificate search
 - [crt.sh](https://crt.sh/)
