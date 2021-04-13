@@ -119,6 +119,7 @@
 - [Lightweight Introduction to Lattices](https://www.cryptool.org/images/ctp/documents/Lattice-Introduction_v015.pdf)
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
 - [Applied Cryptology](https://www.youtube.com/watch?v=YhW5obgPCM4&list=PLUoixF7agmIvqZtb8XxfOxTuYsuYOrgck)
+- [Attacks on Implementations](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
 
 ## Papers
 - [1Password Design Whitepaper](https://1password.com/files/1Password-White-Paper.pdf)

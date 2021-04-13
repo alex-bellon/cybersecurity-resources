@@ -72,6 +72,7 @@ This file contains more general resources. For tools, courses, etc. that are spe
 - [ThreatPost](https://threatpost.com/)
 
 ## Papers
+- [How to explain modern security concepts to your children](https://hal.archives-ouvertes.fr/hal-01397035/document)
 - [James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens) - Harvard cybersecurity professor
 - [SANS Reading Room](https://www.sans.org/reading-room/) - The SANS Reading Room features over 3,070 original computer security white papers in 111 different categories.
 
