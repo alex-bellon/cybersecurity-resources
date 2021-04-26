@@ -159,3 +159,4 @@
 - [RSA CTF Tool](https://github.com/Ganapati/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
 - [rsa-stream](https://github.com/substack/rsa-stream) - encrypt/decrypt rsa with streams
 - [XOR Analyze](https://github.com/ThomasHabets/xor-analyze) - Program for cryptanalyzing xor "encryption" with variable key length
+- [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher

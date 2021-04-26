@@ -46,6 +46,7 @@
 - [SSTV decoder](https://github.com/colaclanth/sstv)
 - [volatility](https://github.com/volatilityfoundation/volatility) - Volatile memory extraction utility framework
 - [whatsapp-viewer](https://github.com/andreas-mausch/whatsapp-viewer) - Small tool to display chats from the Android msgstore.db database
+- [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 - [zwfp](https://github.com/vedhavyas/zwfp) - Zero-Width fingerprinting
 
 ### Passwords

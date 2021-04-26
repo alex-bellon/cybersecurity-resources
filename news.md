@@ -11,6 +11,7 @@
 - [Dirty Sock](https://github.com/initstring/dirty_sock) - Linux privilege escalation exploit via snapd (CVE-2019-7304)
 - [How to get root on Ubuntu 20.04 by pretending nobody's /home](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
 - [Magecart](https://www.theregister.co.uk/2018/10/09/magecart_payment_card_malware/) - Stealing information through card-skimming
+- [One click RCE on Telegram](https://positive.security/blog/url-open-rce)
 - [Portsmash](https://youtu.be/k6PzjGwyKuY)
 - [Public SSH Keys Leaking Private Infra](https://rushter.com/blog/public-ssh-keys/)
 - [Recovering a full PEM private key when half is redacted](https://blog.cryptohack.org/twitter-secretsw)
