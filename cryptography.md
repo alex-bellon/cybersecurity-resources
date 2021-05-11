@@ -28,7 +28,9 @@
 - [A Crash Course in Everything Cryptographic](https://medium.com/@lduck11007/a-crash-course-in-everything-cryptographic-50daa0fda482)
 - [A Guide to Post-Quantum Cryptography](https://hackernoon.com/a-guide-to-post-quantum-cryptography-d785a70ea04b)
 - [Cryptographic Attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks)
+- [Illustrated X.509 Certificate](https://darutk.medium.com/illustrated-x-509-certificate-84aece2c5c2e)
 - [Shor's Algorithm](https://www.scottaaronson.com/blog/?p=208)
+
 
 ### Ciphers
 - [ADFGVX Cipher](https://crypto.interactive-maths.com/adfgvx-cipher.html) - it combines an adapted Polybius Square with Columnar Transposition
