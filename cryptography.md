@@ -122,6 +122,8 @@
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
 - [Applied Cryptology](https://www.youtube.com/watch?v=YhW5obgPCM4&list=PLUoixF7agmIvqZtb8XxfOxTuYsuYOrgck)
 - [Attacks on Implementations](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
+- [A Tutorial on Linear Differential Cryptanalysis](https://ioactive.com/wp-content/uploads/2015/07/ldc_tutorial.pdf)
+- [A Self-Study Course in Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf)
 
 ## Papers
 - [1Password Design Whitepaper](https://1password.com/files/1Password-White-Paper.pdf)
@@ -134,6 +136,7 @@
   - [CryptoHack Docker](https://github.com/hyperreality/cryptohack-docker)
 
 ## Reddit
+- [Crypto books that cover modern cryptography?](https://www.reddit.com/r/crypto/comments/n95851/crypto_book_that_covers_latest_modern_crypto/)
 - [Does a one time pad expose itself as a one time pad?](https://www.reddit.com/r/crypto/comments/bcytd6/does_a_one_time_pad_expose_itself_as_a_one_time/s)
 - [How are repeated IVs used to crack the key?](https://www.reddit.com/r/crypto/comments/brdgnl/how_are_repeated_ivs_used_to_crack_the_key/)
 - [Nonce reuse vs IV reuse](https://www.reddit.com/r/crypto/comments/fnku50/nonce_reuse_vs_iv_reuse/)
