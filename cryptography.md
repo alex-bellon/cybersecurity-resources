@@ -138,6 +138,7 @@
 ## Reddit
 - [Crypto books that cover modern cryptography?](https://www.reddit.com/r/crypto/comments/n95851/crypto_book_that_covers_latest_modern_crypto/)
 - [Does a one time pad expose itself as a one time pad?](https://www.reddit.com/r/crypto/comments/bcytd6/does_a_one_time_pad_expose_itself_as_a_one_time/s)
+- [Entropy vs randomness](https://www.reddit.com/r/cryptography/comments/n5e4s1/question_about_entropy/)
 - [How are repeated IVs used to crack the key?](https://www.reddit.com/r/crypto/comments/brdgnl/how_are_repeated_ivs_used_to_crack_the_key/)
 - [Nonce reuse vs IV reuse](https://www.reddit.com/r/crypto/comments/fnku50/nonce_reuse_vs_iv_reuse/)
 - [Are ChaCha and Salsa20 considered deterministic](https://www.reddit.com/r/crypto/comments/lpvk52/are_chacha_and_salsa20_considered_deterministic/)

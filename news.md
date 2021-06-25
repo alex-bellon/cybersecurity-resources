@@ -16,6 +16,7 @@
 - [Public SSH Keys Leaking Private Infra](https://rushter.com/blog/public-ssh-keys/)
 - [Recovering a full PEM private key when half is redacted](https://blog.cryptohack.org/twitter-secretsw)
 - [ROCA (Return of Coppersmith's Attack)](https://bitsdeep.com/posts/analysis-of-the-roca-vulnerability/)
+- [SIM Exploit](https://www.vice.com/amp/en/article/y3g8wb/hacker-got-my-texts-16-dollars-sakari-netnumber?__twitter_impression=true)
 - [SSRF Against AWS Interactive Tutorial](https://application.security/)
 - [VirtualBox Escape 0-Day](https://www.reddit.com/r/netsec/comments/9uuvk2/virtualbox_escape_0day/)
 
