@@ -116,7 +116,6 @@
 - [Scribed Lecture Notes](https://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) - Lecture notes from Grad Crypto at University of Maryland
 - [Lattices in Computer Science](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/index.html) - Lattice based cryptography notes from NYU
 - [Lattice Based Cryptography and Applications](https://cyber.biu.ac.il/event/the-2nd-biu-winter-school/) - Lattice crypto notes from BIU
-- [Lattice Based Cryptography and Applications](https://cyber.biu.ac.il/event/the-2nd-biu-winter-school/) - Lattice crypto notes from BIU
 - [Advanced Topics in Cryptography: Lattices](https://people.csail.mit.edu/vinodv/6876-Fall2015/index.html) - notes from MIT
 - [Lightweight Introduction to Lattices](https://www.cryptool.org/images/ctp/documents/Lattice-Introduction_v015.pdf)
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
@@ -136,13 +135,14 @@
   - [CryptoHack Docker](https://github.com/hyperreality/cryptohack-docker)
 
 ## Reddit
+- [Are ChaCha and Salsa20 considered deterministic](https://www.reddit.com/r/crypto/comments/lpvk52/are_chacha_and_salsa20_considered_deterministic/)
+  - > All [symmetrical crypto] algorithms are deterministic, without achieving the same result every time they could not work
 - [Crypto books that cover modern cryptography?](https://www.reddit.com/r/crypto/comments/n95851/crypto_book_that_covers_latest_modern_crypto/)
 - [Does a one time pad expose itself as a one time pad?](https://www.reddit.com/r/crypto/comments/bcytd6/does_a_one_time_pad_expose_itself_as_a_one_time/s)
 - [Entropy vs randomness](https://www.reddit.com/r/cryptography/comments/n5e4s1/question_about_entropy/)
 - [How are repeated IVs used to crack the key?](https://www.reddit.com/r/crypto/comments/brdgnl/how_are_repeated_ivs_used_to_crack_the_key/)
 - [Nonce reuse vs IV reuse](https://www.reddit.com/r/crypto/comments/fnku50/nonce_reuse_vs_iv_reuse/)
-- [Are ChaCha and Salsa20 considered deterministic](https://www.reddit.com/r/crypto/comments/lpvk52/are_chacha_and_salsa20_considered_deterministic/)
-  - > All [symmetrical crypto] algorithms are deterministic, without achieving the same result every time they could not work
+- [Why are finite fields so important in crypto?](https://www.reddit.com/r/cryptography/comments/o3mrow/why_are_finite_fields_so_important_in_cryptography/)
 
 ## Tools
 - [AntiMersenne](https://github.com/nh2/AntiMersenne) - Predicting Python's Mersenne twister PRNG for 30c3 CTF, with Python calling Java

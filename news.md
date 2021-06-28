@@ -3,6 +3,9 @@
 ## Hardware
 - [Rowhammer](https://www.wired.com/story/rowhammer-ecc-memory-data-hack/) - Hammering hardware with enough operations that the electricity overflows and flips the bit on a nearby row and changes a bit
 
+### Phone system
+- [I made 56874 calls to explore the telephone network. Here’s what I found.](https://shufflingbytes.com/posts/wardialing-finnish-freephones/)
+
 ## Software
 - [A Dive Into the World of DOS Viruses](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
 - [Android Trojan steals money from PayPal accounts](https://www.welivesecurity.com/2018/12/11/android-trojan-steals-money-paypal-accounts-2fa/)
