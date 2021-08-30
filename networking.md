@@ -57,6 +57,11 @@ https://wigle.net/ - Map of networks
 - [sslstrip](https://moxie.org/software/sslstrip/) - SSL/TLS man-in-the-middle attack tool
 - [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer
 
+### USB
+- [USB Replay](https://github.com/wcooley/usbrevue/blob/master/README.usbreplay) - Replays a `.pcap` of USB traffic
+- [USBREVue](https://github.com/wcooley/usbrevue) - USBREVue is a suite of tools for reverse-engineering USB devices.
+- [USB Traffic Protocol Decoder](https://github.com/jamesjara/USB-traffic-protocol-decoder) - Analysing USB traffic protocol decoder from a pcap Wireshark 
+
 ### Wireless Attacks
 - [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) - A complete suite of tools to assess WiFi network security
 - [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - Multi-use bash script for Linux systems to audit wireless networks
