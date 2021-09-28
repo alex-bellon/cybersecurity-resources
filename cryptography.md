@@ -4,6 +4,7 @@
 - Enigma
   - [AMS Article](http://www.ams.org/publicoutreach/feature-column/fcarc-enigma)
   - [Codes and Ciphers Book (Ch 9)](http://www.ik4hdq.net/codici_cifr.pdf)
+- [So, you want to be a Cryptographer?](https://github.com/SalusaSecondus/CryptoGotchas/blob/master/GettingStarted.md)
 
 ## Blogs
 - [BitsDeep](https://bitsdeep.com/)
@@ -101,37 +102,39 @@
 
 ## Learning
 - [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - Full textbook online
-- [Dan Boneh](https://crypto.stanford.edu/~dabo/) - Crypto prof at Stanford, has a lot of good resources (including a textbook!)
-- [The Amazing King](http://theamazingking.com/crypto.php)
-- [An Introduction to Mathematical Cryptography](https://www.math.brown.edu/~jhs/MathCryptoHome.html)
-- [Lessons learned and misconceptions regarding encryption and crypto](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology/2206#2206)
-- [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
-- [Practical Crypto](https://github.com/matthewdgreen/practicalcrypto) - Repository for course materials and slides for Practical Cryptographic Systems, JHU CS 445/645.
+- [A Self-Study Course in Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf)
+- [A Tutorial on Linear Differential Cryptanalysis](https://ioactive.com/wp-content/uploads/2015/07/ldc_tutorial.pdf)
 - [Advanced Crypto Notes](https://cs.nyu.edu/courses/fall09/G22.3220-001/index.html) - Notes from NYU
 - [Advanced Topics in Cryptography](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-876j-advanced-topics-in-cryptography-spring-2003/lecture-notes/) - MIT OCW course
-- [Cryptography Notes](https://people.eecs.berkeley.edu/~luca/cs276/#notes) - Notes from UC Berkeley
-- [Intro to Cryptography Notes](https://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) - Notes from NYU
-- [Intro to Cryptography Notes](https://sites.fas.harvard.edu/~cs120/lectures/) - Notes from Harvard
-- [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - Cryptography Notes by Shafi Goldwasser
-- [Scribed Lecture Notes](https://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) - Lecture notes from Grad Crypto at University of Maryland
-- [Lattices in Computer Science](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/index.html) - Lattice based cryptography notes from NYU
-- [Lattice Based Cryptography and Applications](https://cyber.biu.ac.il/event/the-2nd-biu-winter-school/) - Lattice crypto notes from BIU
 - [Advanced Topics in Cryptography: Lattices](https://people.csail.mit.edu/vinodv/6876-Fall2015/index.html) - notes from MIT
-- [Lightweight Introduction to Lattices](https://www.cryptool.org/images/ctp/documents/Lattice-Introduction_v015.pdf)
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/)
+- [An Introduction to Mathematical Cryptography](https://www.math.brown.edu/~jhs/MathCryptoHome.html)
 - [Applied Cryptology](https://www.youtube.com/watch?v=YhW5obgPCM4&list=PLUoixF7agmIvqZtb8XxfOxTuYsuYOrgck)
 - [Attacks on Implementations](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
-- [A Tutorial on Linear Differential Cryptanalysis](https://ioactive.com/wp-content/uploads/2015/07/ldc_tutorial.pdf)
-- [A Self-Study Course in Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf)
+- [Cryptography Notes](https://people.eecs.berkeley.edu/~luca/cs276/#notes) - Notes from UC Berkeley
+- [Dan Boneh](https://crypto.stanford.edu/~dabo/) - Crypto prof at Stanford, has a lot of good resources (including a textbook!)
+- [Ideal Class Groups (Mini Course)](http://www.usf-crypto.org/class-groups/)
+- [Intro to Cryptography Notes](https://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) - Notes from NYU
+- [Intro to Cryptography Notes](https://sites.fas.harvard.edu/~cs120/lectures/) - Notes from Harvard
+- [Lattice Based Cryptography and Applications](https://cyber.biu.ac.il/event/the-2nd-biu-winter-school/) - Lattice crypto notes from BIU
+- [Lattices in Computer Science](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/index.html) - Lattice based cryptography notes from NYU
+- [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - Cryptography Notes by Shafi Goldwasser
+- [Lessons learned and misconceptions regarding encryption and crypto](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology/2206#2206)
+- [Lightweight Introduction to Lattices](https://www.cryptool.org/images/ctp/documents/Lattice-Introduction_v015.pdf)
+- [Practical Crypto](https://github.com/matthewdgreen/practicalcrypto) - Repository for course materials and slides for Practical Cryptographic Systems, JHU CS 445/645.
+- [Scribed Lecture Notes](https://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) - Lecture notes from Grad Crypto at University of Maryland
+- [The Amazing King](http://theamazingking.com/crypto.php)
+- [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto/)
 
 ## Papers
 - [1Password Design Whitepaper](https://1password.com/files/1Password-White-Paper.pdf)
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 
 ## Practice
-- [Cryptopals](https://cryptopals.com/)
-- [ToadStyle Cryptopals](https://toadstyle.org/cryptopals/)
 - [CryptoHack](https://cryptohack.org/challenges/)
+- [Cryptopals](https://cryptopals.com/)
+- [Mystery Twister C3](https://www.mysterytwisterc3.org/en/)
+- [ToadStyle Cryptopals](https://toadstyle.org/cryptopals/)
   - [CryptoHack Docker](https://github.com/hyperreality/cryptohack-docker)
 
 ## Reddit
@@ -151,6 +154,7 @@
 - [Crib Dragging Auto Cracker](https://github.com/yhuag/Crib-Dragging-Auto-Cracker) - The project is to crack crib dragging in an efficient way. It will crib drag 5,000 most common English vocabularies on the cipher text and collect all the words that are partially/entirely recognized as an English word.
 - [crypto_misc](https://github.com/elliptic-shiho/crypto_misc) - Paper Implementation, Practice code, Cryptographic some others.
 - [cryptobin](https://github.com/avanpo/cryptobin) - crypto and puzzle tools
+- [CryptoGotchas](https://github.com/SalusaSecondus/CryptoGotchas) - A collection of common (interesting) cryptographic mistakes and learning resources.
 - [Crypton](https://github.com/ashutosh1206/Crypton) -  Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges from CTFs
 - [Cryptool](https://www.cryptool.org/en/cryptool-online)
 - [CryptoTools](https://cryptotools.net/) - a suite of cryptographic utilities for convenience that operate entirely on the client side. No calculations take place on the server, nor is any data generated or used here sent to the server.

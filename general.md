@@ -36,6 +36,7 @@ This file contains more general resources. For tools, courses, etc. that are spe
 
 ## Learning
 - [CTF 101](https://ctf101.org/) - Explanations of the common categories of CTF problems
+- [Hacking Printers](http://hacking-printers.net/wiki/index.php/Main_Page)
 - [Hacksplaining Lessons](https://www.hacksplaining.com/lessons) - Lessons about individual security topics
 - [Null Byte How-Tos](https://null-byte.wonderhowto.com/how-to/) - Security tutorials
 - [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/) - Intro to CTF concepts and categories
@@ -55,11 +56,13 @@ This file contains more general resources. For tools, courses, etc. that are spe
 - [awesome-infosec](https://github.com/onlurking/awesome-infosec) -  A curated list of awesome infosec courses and training resources.
 - [Awesome Security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - A collection of various GitHub gists for hackers, pentesters and security researchers
+- [aws-hacking](https://github.com/opendevsecops/guide-aws-hacking) - This is an offensive guide to securing AWS infrastructures. The hope is that by knowing how to take advantage of various types of AWS weaknesses you will be verse enough to provide the correct countermeasures. 
 - [CTF Candy](https://github.com/flawwan/CTF-Candy) - Useful tools and cheat sheet for Captures The Flag (CTF) contests.
 - [ctf-resources](https://github.com/ctfs/resources) - A general collection of information, tools, and tips regarding CTFs and similar security competitions
 - [ctf-tools](https://github.com/zardus/ctf-tools) - This is a collection of setup scripts to create an install of various security research tools.
 - [H4cker](https://github.com/The-Art-of-Hacking/h4cker) - Thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [Powerful Plugins](https://github.com/Hack-with-Github/Powerful-Plugins) - Powerful plugins and add-ons for hackers for dBurpSuite, Chrome, Firefox, IDA, etc
+- [Printer hacking](https://github.com/techgaun/printer-hacking) -
 - [pycurity](https://github.com/ninijay/pycurity) - Python Security Scripts
 - [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
 - [The Hacker's Choice Tips and Tricks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
@@ -132,6 +135,7 @@ This file contains more general resources. For tools, courses, etc. that are spe
 ## Reference
 - [CVE Details](http://www.cvedetails.com/) - Database of CVEs and accompanying details
 - [Exploit Database](http://www.exploit-db.com/) - Exactly what is sounds like: a database of exploits
+- [InfoconDB](https://infocondb.org/) - Welcome to InfoconDB, the site that catalogs and cross-references hacker and infosec conferences!
 
 ## Software
 
@@ -160,7 +164,7 @@ This file contains more general resources. For tools, courses, etc. that are spe
 - [Stanford Security Seminar](https://crypto.stanford.edu/seclab/sem.html)
 
 ## Videos
-- [SecurityTube](http://www.securitytube.net/) - Video site for seuciryt-related videos
+- [SecurityTube](http://www.securitytube.net/) - Video site for security-related videos
 
 ### YouTube Channels
 - [13Cubed](https://www.youtube.com/user/davisrichardg/videos)

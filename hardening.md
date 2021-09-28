@@ -1,12 +1,18 @@
 # Hardening
 
 ## Linux
+- [A complete yet beginner friendly guide on how to secure Linux](https://www.reddit.com/r/linux/comments/ns7r7o/a_complete_yet_beginner_friendly_guide_on_how_to/)
 - [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+- [Linux Workstation Security](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
+
+## SSH
+- [ssh-audit](https://github.com/jtesta/ssh-audit)
+
+### OpenSSH
+- [How to harden OpenSSH on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-harden-openssh-on-ubuntu-18-04)
 
 ## SQL
-- https://medium.com/linode-cube/5-essential-steps-to-hardening-your-mysql-database-591e477bbbd7
 - https://www.techrepublic.com/article/how-to-harden-mysql-security-with-a-single-command/
-- https://www.tecklyfe.com/harden-mysql-server/
 
 ### [5 Steps to hardedning your MySQL database](https://medium.com/linode-cube/5-essential-steps-to-hardening-your-mysql-database-591e477bbbd7)
 - Setup with `mysql_secure_installation` - takes care of most of this for you!

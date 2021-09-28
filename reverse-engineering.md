@@ -16,8 +16,10 @@
 - [MicroCorruption](https://microcorruption.com/login)
 - [NetGarage](https://io.netgarage.org/)
 - [Reversing.kr](http://reversing.kr/)
+- [USB CTF](https://usbc.tf/challenges)
 
 ## Resources
+- [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing/)
 - [The Zoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 
 ## Tools

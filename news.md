@@ -1,6 +1,7 @@
 # News/Recent Exploits
 
 ## Hardware
+- [The Hotel Room Hacker](https://www.wired.com/2017/08/the-hotel-hacker/)
 - [Rowhammer](https://www.wired.com/story/rowhammer-ecc-memory-data-hack/) - Hammering hardware with enough operations that the electricity overflows and flips the bit on a nearby row and changes a bit
 
 ### Phone system

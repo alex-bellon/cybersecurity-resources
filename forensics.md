@@ -27,10 +27,13 @@
 ## Practice
 - [Forensics Contest](http://forensicscontest.com/)
 
+## Resources
+- [CTF Series: Forensics](https://bitvijays.github.io/LFC-Forensics.html) - This post (Work in Progress) lists the tips and tricks while doing Forensics challenges during various CTF’s.
+- https://georgeom.net/StegOnline/checklist
+
 ## Tools
 
 ### General
-- https://georgeom.net/StegOnline/checklist
 - [Autopsy](http://www.sleuthkit.org/autopsy/download.php) - Digital forensics platform
 - [bulk_extractor](https://github.com/simsong/bulk_extractor) - Scans a disk image, a file, or a directory of files
 - [dc3dd](https://sourceforge.net/projects/dc3dd/) - A patched version of GNU dd with added features for computer forensics
@@ -39,9 +42,14 @@
 - [ExifTool](https://github.com/exiftool/exiftool) - Read, Write and Edit Exif metadata
 - [Foremost](https://linux.die.net/man/1/foremost) - Restore files from their headers, footers and data structures
 - [frida-extract](https://github.com/OALabs/frida-extract) - Based RunPE extraction tool
+- [image-unshredding](https://github.com/robinhouston/image-unshredding)
 - [Kaitai](https://ide.kaitai.io/) - Reverse engineer different formats of files
 - [PdfParser](https://github.com/smalot/pdfparser) - A standalone PHP library, provides various tools to extract data from a PDF file
+- [PDF Object Browser](http://brendandahl.github.io/pdf.js.utils/browser/)
 - [peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents
+- [PDF decomposing tools](https://reverseengineering.stackexchange.com/questions/1526/open-source-gui-tool-for-decomposing-a-pdf)
+- [qpdf](http://qpdf.sourceforge.net/)
+  - Decompress: `qpdf --qdf --object-streams=disable orig.pdf uncompressed-qpdf.pdf`
 - [scalpel](https://github.com/sleuthkit/scalpel) - Scalpel is an open source data carving tool.
 - [SSTV decoder](https://github.com/colaclanth/sstv)
 - [volatility](https://github.com/volatilityfoundation/volatility) - Volatile memory extraction utility framework
