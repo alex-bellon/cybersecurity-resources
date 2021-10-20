@@ -10,6 +10,7 @@ This file contains more general resources. For tools, courses, etc. that are spe
 ## Blogs
 - [Filippo Valsorda's Blog](https://blog.filippo.io/) - Filippo is in charge of cryptography and security on the Go team at Google
 - [Google Project Zero](https://googleprojectzero.blogspot.com/) - Zero day research from Google
+  - [0days in the wild](https://googleprojectzero.github.io/0days-in-the-wild/)
 - [HackTricks](https://book.hacktricks.xyz/)
 - [neonsea](https://nns.ee/blog/)
 - [Phrack](https://phrack.org)
@@ -56,7 +57,7 @@ This file contains more general resources. For tools, courses, etc. that are spe
 - [awesome-infosec](https://github.com/onlurking/awesome-infosec) -  A curated list of awesome infosec courses and training resources.
 - [Awesome Security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [Awesome Security Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - A collection of various GitHub gists for hackers, pentesters and security researchers
-- [aws-hacking](https://github.com/opendevsecops/guide-aws-hacking) - This is an offensive guide to securing AWS infrastructures. The hope is that by knowing how to take advantage of various types of AWS weaknesses you will be verse enough to provide the correct countermeasures. 
+- [aws-hacking](https://github.com/opendevsecops/guide-aws-hacking) - This is an offensive guide to securing AWS infrastructures. The hope is that by knowing how to take advantage of various types of AWS weaknesses you will be verse enough to provide the correct countermeasures.
 - [CTF Candy](https://github.com/flawwan/CTF-Candy) - Useful tools and cheat sheet for Captures The Flag (CTF) contests.
 - [ctf-resources](https://github.com/ctfs/resources) - A general collection of information, tools, and tips regarding CTFs and similar security competitions
 - [ctf-tools](https://github.com/zardus/ctf-tools) - This is a collection of setup scripts to create an install of various security research tools.
