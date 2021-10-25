@@ -36,6 +36,7 @@
 ### Ciphers
 - [ADFGVX Cipher](https://crypto.interactive-maths.com/adfgvx-cipher.html) - it combines an adapted Polybius Square with Columnar Transposition
 - [Beaufort Cipher](http://practicalcryptography.com/ciphers/beaufort-cipher/)
+- [List of Cipher types](https://www.cryptogram.org/resource-area/cipher-types/)
 - [Pollux Cipher](https://www.dcode.fr/pollux-cipher)
 - [Sarah2 Cipher](https://laser-calcium.glitch.me/) - Sarah2 is a cipher meant to be implemented by hand with only simple tools.
 - [VIC Cipher](https://en.wikipedia.org/wiki/VIC_cipher)
