@@ -15,6 +15,8 @@ This file contains more general resources. For tools, courses, etc. that are spe
 - [neonsea](https://nns.ee/blog/)
 - [Phrack](https://phrack.org)
 - [SkullSecurity](https://blog.skullsecurity.org/)
+- [attrition.org](https://attrition.org/)
+  - [Security Industry Errata Page](https://attrition.org/errata/) 
 
 ## Books
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)

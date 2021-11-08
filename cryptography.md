@@ -39,7 +39,9 @@
 - [List of Cipher types](https://www.cryptogram.org/resource-area/cipher-types/)
 - [Pollux Cipher](https://www.dcode.fr/pollux-cipher)
 - [Sarah2 Cipher](https://laser-calcium.glitch.me/) - Sarah2 is a cipher meant to be implemented by hand with only simple tools.
+- [Symbol ciphers list](https://aroktyoe.wixsite.com/decipher/home)
 - [VIC Cipher](https://en.wikipedia.org/wiki/VIC_cipher)
+- [Voynich manuscript](https://en.wikipedia.org/wiki/Voynich_manuscript)
 
 ### Diffie Hellman
 <details>

@@ -1,5 +1,9 @@
 # Reverse Engineering
 
+## Articles
+- [An opinionated guide on how to reverse engineer software, part 1](https://margin.re/media/an-opinionated-guide-on-how-to-reverse-engineer-software-part-1.aspx)
+- [JTAG Reverse Engineering [Alex Forencich]](https://www.alexforencich.com/wiki/en/reverse-engineering/jtag/start)
+
 ## Learning
 - [Beginners.re](https://beginners.re/)
 - [CTFd Reversing Module](https://reversing.ctfd.io/)
@@ -24,7 +28,11 @@
 
 ## Tools
 - [angrop](https://github.com/angr/angrop) - angrop is a rop gadget finder and chain builder
+- [cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
 - [Cutter](https://github.com/radareorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
+- [al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [Ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
+- [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [objdump](https://sourceware.org/binutils/docs/binutils/objdump.html) - Displays the hex and assembly for a binary file
 - [USBREVue](https://github.com/wcooley/usbrevue) - USBREVue is a suite of tools for reverse-engineering USB devices.
+- [yara](https://github.com/VirusTotal/yara) - YARA is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples
