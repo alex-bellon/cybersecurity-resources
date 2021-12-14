@@ -4,6 +4,7 @@
 - [A complete yet beginner friendly guide on how to secure Linux](https://www.reddit.com/r/linux/comments/ns7r7o/a_complete_yet_beginner_friendly_guide_on_how_to/)
 - [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 - [Linux Workstation Security](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
+- [Degrees and Dates of Attendance](https://utdirect.utexas.edu/apps/degree/degrees/nlogon/)
 
 ## SSH
 - [ssh-audit](https://github.com/jtesta/ssh-audit)

@@ -34,6 +34,7 @@
 - [metagoofil](https://github.com/opsdisk/metagoofil) - Document and metadata reconnaissance (updated version)
 - [onioff](https://github.com/k4m4/onioff) - An onion url inspector for inspecting deep web links
 - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization
+- [PacketWhisper](https://github.com/TryCatchHCF/PacketWhisper) - Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. No need to control a DNS Name Server.
 - [pagodo](https://github.com/opsdisk/pagodo) - Automate Google Hacking Database scraping
 - [SimplyEmail](https://github.com/SimplySecurity/SimplyEmail) - Email recon made fast and easy
 - [sniff-paste](https://github.com/needmorecowbell/sniff-paste) - Pastebin OSINT Harvester

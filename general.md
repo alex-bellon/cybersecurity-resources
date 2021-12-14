@@ -46,6 +46,8 @@ This file contains more general resources. For tools, courses, etc. that are spe
 
 ### MOOC/Classes
 - [Attacks on Implementations of Secure Systems](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
+- [CS175: Communications Security and Social Movements](https://web.engr.oregonstate.edu/~glencora/cs175/index.php/CourseScheduleSpring2018)
+  - [Defend Dissent – Open Textbook](https://open.oregonstate.education/defenddissent/)
 - [Cyber Security Base](https://cybersecuritybase.mooc.fi/)
 - [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 - [Open Security Training's Locally Hosted Classes](http://opensecuritytraining.info/Training.html)

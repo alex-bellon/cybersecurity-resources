@@ -4,6 +4,7 @@
 - Enigma
   - [AMS Article](http://www.ams.org/publicoutreach/feature-column/fcarc-enigma)
   - [Codes and Ciphers Book (Ch 9)](http://www.ik4hdq.net/codici_cifr.pdf)
+- [How I became a cryptographer](https://littlemaninmyhead.wordpress.com/2017/05/18/how-i-became-a-cryptographer/)
 - [So, you want to be a Cryptographer?](https://github.com/SalusaSecondus/CryptoGotchas/blob/master/GettingStarted.md)
 
 ## Blogs
@@ -13,13 +14,15 @@
 
 ## Books
 - [Applied Cryptography](https://www.schneier.com/books/applied_cryptography/)
+- [The best books on the Enigma Machine](https://shepherd.com/best-books/enigma-machine)
 - [Cracking codes with Python](https://nostarch.com/crackingcodes)
-- [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/)
+- [Crypto101](https://www.crypto101.io/)
 - Crypto: How the Code Rebels Beat the Government - Saving Privacy in the Digital Age
+- [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/)
+- [Great Cryptography Books | Simon Singh](https://simonsingh.net/books/recommended-books/great-cryptography-books/)
 - [Serious Cryptography](https://nostarch.com/seriouscrypto)
 - [The Code Book](https://en.wikipedia.org/wiki/The_Code_Book)
 - [The Codebreakers](https://en.wikipedia.org/wiki/The_Codebreakers)
-- [Crypto101](https://www.crypto101.io/)
 - Understanding Cryptography - Paar and Pelzl (solutions online)
 
 ## Competitions
@@ -36,6 +39,7 @@
 ### Ciphers
 - [ADFGVX Cipher](https://crypto.interactive-maths.com/adfgvx-cipher.html) - it combines an adapted Polybius Square with Columnar Transposition
 - [Beaufort Cipher](http://practicalcryptography.com/ciphers/beaufort-cipher/)
+- [Dorabella Cipher](https://en.wikipedia.org/wiki/Dorabella_Cipher)
 - [List of Cipher types](https://www.cryptogram.org/resource-area/cipher-types/)
 - [Pollux Cipher](https://www.dcode.fr/pollux-cipher)
 - [Sarah2 Cipher](https://laser-calcium.glitch.me/) - Sarah2 is a cipher meant to be implemented by hand with only simple tools.
@@ -44,6 +48,7 @@
 - [Voynich manuscript](https://en.wikipedia.org/wiki/Voynich_manuscript)
 
 ### Diffie Hellman
+
 <details>
   <summary>Notes</summary>
 
@@ -64,8 +69,7 @@
       - Modern protocols use
         - ECDH for key exchange
         - ECDSA, RSA (legacy) for signatures
-  Mod p, every invertible element has order dividing p-1 (with operation multiplication)
-
+  - Mod p, every invertible element has order dividing p-1 (with operation multiplication)
 </details>
 
 ### RSA
@@ -125,9 +129,10 @@
 - [Lessons learned and misconceptions regarding encryption and crypto](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology/2206#2206)
 - [Lightweight Introduction to Lattices](https://www.cryptool.org/images/ctp/documents/Lattice-Introduction_v015.pdf)
 - [Practical Crypto](https://github.com/matthewdgreen/practicalcrypto) - Repository for course materials and slides for Practical Cryptographic Systems, JHU CS 445/645.
+- [Proofs, Arguments and Zero Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) - 
 - [Scribed Lecture Notes](https://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) - Lecture notes from Grad Crypto at University of Maryland
 - [The Amazing King](http://theamazingking.com/crypto.php)
-- [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto/)
+- [The Joy of Cryptography](https://joyofcryptography.com/)
 
 ## Papers
 - [1Password Design Whitepaper](https://1password.com/files/1Password-White-Paper.pdf)
@@ -147,6 +152,9 @@
 - [Does a one time pad expose itself as a one time pad?](https://www.reddit.com/r/crypto/comments/bcytd6/does_a_one_time_pad_expose_itself_as_a_one_time/s)
 - [Entropy vs randomness](https://www.reddit.com/r/cryptography/comments/n5e4s1/question_about_entropy/)
 - [How are repeated IVs used to crack the key?](https://www.reddit.com/r/crypto/comments/brdgnl/how_are_repeated_ivs_used_to_crack_the_key/)
+- [Is there any way to encrypt a file to only open after a certain date? : cryptography](https://www.reddit.com/r/cryptography/comments/r1of13/is_there_any_way_to_encrypt_a_file_to_only_open/)
+  - [Time-lock encryption](https://www.gwern.net/Self-decrypting-files)
+  - [Key escrow](https://en.wikipedia.org/wiki/Key_escrow)
 - [Nonce reuse vs IV reuse](https://www.reddit.com/r/crypto/comments/fnku50/nonce_reuse_vs_iv_reuse/)
 - [Why are finite fields so important in crypto?](https://www.reddit.com/r/cryptography/comments/o3mrow/why_are_finite_fields_so_important_in_cryptography/)
 

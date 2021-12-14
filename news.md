@@ -11,6 +11,7 @@
 - [A Dive Into the World of DOS Viruses](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
 - [Android Trojan steals money from PayPal accounts](https://www.welivesecurity.com/2018/12/11/android-trojan-steals-money-paypal-accounts-2fa/)
 - [Breaking the Virtual Memory Abstraction with Transient Out-of-Order Execution](https://foreshadowattack.eu/)
+- [Buffer Overflow in an unmaintained school project that received a CVE](https://github.com/fekberg/GoHttp/issues/17)
 - [Collection of side channel attacks](https://github.com/mratsim/constantine/wiki/Constant-time-arithmetics)
 - [Dirty Sock](https://github.com/initstring/dirty_sock) - Linux privilege escalation exploit via snapd (CVE-2019-7304)
 - [How to get root on Ubuntu 20.04 by pretending nobody's /home](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
@@ -22,6 +23,7 @@
 - [ROCA (Return of Coppersmith's Attack)](https://bitsdeep.com/posts/analysis-of-the-roca-vulnerability/)
 - [SIM Exploit](https://www.vice.com/amp/en/article/y3g8wb/hacker-got-my-texts-16-dollars-sakari-netnumber?__twitter_impression=true)
 - [SSRF Against AWS Interactive Tutorial](https://application.security/)
+- [Trojan Source Attacks](https://trojansource.codes/) - Rather than inserting logical bugs, adversaries can attack the encoding of source code files to inject vulnerabilities.
 - [VirtualBox Escape 0-Day](https://www.reddit.com/r/netsec/comments/9uuvk2/virtualbox_escape_0day/)
 
 ### Email

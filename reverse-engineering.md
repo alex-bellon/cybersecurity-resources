@@ -34,5 +34,6 @@
 - [Ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [objdump](https://sourceware.org/binutils/docs/binutils/objdump.html) - Displays the hex and assembly for a binary file
+- [rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [USBREVue](https://github.com/wcooley/usbrevue) - USBREVue is a suite of tools for reverse-engineering USB devices.
 - [yara](https://github.com/VirusTotal/yara) - YARA is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples
