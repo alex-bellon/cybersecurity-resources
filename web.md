@@ -14,6 +14,7 @@
 - [PortSwigger](https://portswigger.net/web-security)
 - [Webhacking.kr](https://webhacking.kr/)
 - [Websec.fr](https://websec.fr/)
+- [WrongSecrets](https://github.com/commjoen/wrongsecrets)
 - [XSS Game](https://xss-game.appspot.com/)
 
 ## Repos
