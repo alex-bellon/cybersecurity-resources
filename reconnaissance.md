@@ -2,6 +2,7 @@
 
 ## Tools
 - [pdlist](https://github.com/gnebbia/pdlist) - pdlist is a passive subdomain finder written in python3. This tool can be used effectively to collect information about a domain without ever sending a single packet to any of its hosts.
+- [pnrsh](https://github.com/iangcarroll/pnrsh) - View hidden information in airline reservations. 
 - [shorteners](https://shorteners.grayhatwarfare.com/) - search exposed shortened URLs
 
 ### Certificate search

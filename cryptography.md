@@ -23,6 +23,7 @@
 - [Serious Cryptography](https://nostarch.com/seriouscrypto)
 - [The Code Book](https://en.wikipedia.org/wiki/The_Code_Book)
 - [The Codebreakers](https://en.wikipedia.org/wiki/The_Codebreakers)
+- [The Joy of Cryptography](https://joyofcryptography.com/)
 - Understanding Cryptography - Paar and Pelzl (solutions online)
 
 ## Competitions
@@ -129,7 +130,7 @@
 - [Lessons learned and misconceptions regarding encryption and crypto](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology/2206#2206)
 - [Lightweight Introduction to Lattices](https://www.cryptool.org/images/ctp/documents/Lattice-Introduction_v015.pdf)
 - [Practical Crypto](https://github.com/matthewdgreen/practicalcrypto) - Repository for course materials and slides for Practical Cryptographic Systems, JHU CS 445/645.
-- [Proofs, Arguments and Zero Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) - 
+- [Proofs, Arguments and Zero Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) -
 - [Scribed Lecture Notes](https://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) - Lecture notes from Grad Crypto at University of Maryland
 - [The Amazing King](http://theamazingking.com/crypto.php)
 - [The Joy of Cryptography](https://joyofcryptography.com/)
@@ -179,5 +180,6 @@
 - [Replicated Random](https://github.com/fta2012/ReplicatedRandom)
 - [RSA CTF Tool](https://github.com/Ganapati/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
 - [rsa-stream](https://github.com/substack/rsa-stream) - encrypt/decrypt rsa with streams
+- [Solve Crypto With Force](https://scwf.dima.ninja/)
 - [XOR Analyze](https://github.com/ThomasHabets/xor-analyze) - Program for cryptanalyzing xor "encryption" with variable key length
 - [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
