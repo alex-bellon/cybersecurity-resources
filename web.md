@@ -1,7 +1,7 @@
 # Web
 
 ## Concepts
-- [Hidden directories and files as a source of sensitive information about web application](https://medium.com/@_bl4de/hidden-directories-and-files-as-a-source-of-sensitive-information-about-web-application-84e5c534e5ad )
+- [Hidden directories and files as a source of sensitive information about web application](https://github.com/bl4de/research/tree/master/hidden_directories_leaks)
 - [The line of death](https://textslashplain.com/2017/01/14/the-line-of-death/)
 
 ## Practice
