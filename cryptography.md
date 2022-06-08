@@ -5,6 +5,7 @@
   - [AMS Article](http://www.ams.org/publicoutreach/feature-column/fcarc-enigma)
   - [Codes and Ciphers Book (Ch 9)](http://www.ik4hdq.net/codici_cifr.pdf)
 - [How I became a cryptographer](https://littlemaninmyhead.wordpress.com/2017/05/18/how-i-became-a-cryptographer/)
+- [Sage for lattice-based cryptography](https://www.maths.ox.ac.uk/system/files/attachments/sage-introduction.pdf)
 - [So, you want to be a Cryptographer?](https://github.com/SalusaSecondus/CryptoGotchas/blob/master/GettingStarted.md)
 
 ## Blogs
@@ -129,6 +130,7 @@
 - [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - Cryptography Notes by Shafi Goldwasser
 - [Lessons learned and misconceptions regarding encryption and crypto](https://security.stackexchange.com/questions/2202/lessons-learned-and-misconceptions-regarding-encryption-and-cryptology/2206#2206)
 - [Lightweight Introduction to Lattices](https://www.cryptool.org/images/ctp/documents/Lattice-Introduction_v015.pdf)
+- [Oxford Spring School on Lattice-Based Cryptography](https://github.com/malb/oxford-lattice-school-lessons)
 - [Practical Crypto](https://github.com/matthewdgreen/practicalcrypto) - Repository for course materials and slides for Practical Cryptographic Systems, JHU CS 445/645.
 - [Proofs, Arguments and Zero Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) -
 - [Scribed Lecture Notes](https://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) - Lecture notes from Grad Crypto at University of Maryland
