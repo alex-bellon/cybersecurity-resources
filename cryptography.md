@@ -7,6 +7,7 @@
 - [How I became a cryptographer](https://littlemaninmyhead.wordpress.com/2017/05/18/how-i-became-a-cryptographer/)
 - [Sage for lattice-based cryptography](https://www.maths.ox.ac.uk/system/files/attachments/sage-introduction.pdf)
 - [So, you want to be a Cryptographer?](https://github.com/SalusaSecondus/CryptoGotchas/blob/master/GettingStarted.md)
+- [Using Cryptographic Hardware to Secure Applications](https://momjian.us/main/writings/crypto_hw_use.pdf)
 
 ## Blogs
 - [BitsDeep](https://bitsdeep.com/)
