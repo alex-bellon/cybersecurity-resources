@@ -122,6 +122,7 @@
 - [Applied Cryptology](https://www.youtube.com/watch?v=YhW5obgPCM4&list=PLUoixF7agmIvqZtb8XxfOxTuYsuYOrgck)
 - [Attacks on Implementations](https://github.com/Yossioren/AttacksonImplementationsCourseBook)
 - [Cryptography Notes](https://people.eecs.berkeley.edu/~luca/cs276/#notes) - Notes from UC Berkeley
+- [Cryptography II](https://www.coursera.org/learn/crypto2)
 - [Dan Boneh](https://crypto.stanford.edu/~dabo/) - Crypto prof at Stanford, has a lot of good resources (including a textbook!)
 - [Ideal Class Groups (Mini Course)](http://www.usf-crypto.org/class-groups/)
 - [Intro to Cryptography Notes](https://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) - Notes from NYU
