@@ -11,6 +11,7 @@ This file contains more general resources. For tools, courses, etc. that are spe
 - [Filippo Valsorda's Blog](https://blog.filippo.io/) - Filippo is in charge of cryptography and security on the Go team at Google
 - [Google Project Zero](https://googleprojectzero.blogspot.com/) - Zero day research from Google
   - [0days in the wild](https://googleprojectzero.github.io/0days-in-the-wild/)
+- [Hacklido](- [https://hacklido.com/) - collection of awesome blogs from the best hackers.
 - [HackTricks](https://book.hacktricks.xyz/)
 - [neonsea](https://nns.ee/blog/)
 - [Phrack](https://phrack.org)
